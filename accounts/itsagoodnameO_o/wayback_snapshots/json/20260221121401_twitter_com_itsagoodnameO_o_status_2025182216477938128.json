@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2025182216477938128",
+    "created_at": "2026-02-21T12:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T13:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025182216477938128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1488885306929860608",
+          "start": 3,
+          "username": "Y_224J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025182216477938128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024811194104819895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y_224J: 女同bdsm也叫daddy真的好恐怖尼玛我要回家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2025182216477938128",
+        "created_at": "2026-02-21T12:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025182216477938128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1488885306929860608",
+              "start": 3,
+              "username": "Y_224J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025182216477938128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024811194104819895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Y_224J: 女同bdsm也叫daddy真的好恐怖尼玛我要回家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488885306929860608",
+        "conversation_id": "2024811194104819895",
+        "created_at": "2026-02-20T11:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024811194104819895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024811194104819895",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 99697,
+          "like_count": 1315,
+          "quote_count": 18,
+          "reply_count": 53,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "女同bdsm也叫daddy真的好恐怖尼玛我要回家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 82,
+          "like_count": 1396,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 161
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-02T14:41:50.000Z",
+        "description": "偶尔在@valer1111a   超级拧巴人   狗和我都是生理女性 🐕‍🦺🐈   提问箱：https://t.co/1poVZ6wj2l       男的关注会被拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "valer1111a"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/valerrrii1a",
+                "end": 69,
+                "expanded_url": "https://ngl.link/valerrrii1a",
+                "start": 46,
+                "url": "https://t.co/1poVZ6wj2l"
+              }
+            ]
+          }
+        },
+        "id": "1488885306929860608",
+        "name": "Valeriiii",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535065131738025984/90hKyrHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 1904,
+          "like_count": 27424,
+          "listed_count": 3,
+          "media_count": 1120,
+          "tweet_count": 13106
+        },
+        "username": "Y_224J",
+        "verified": false
+      }
+    ]
+  }
+}

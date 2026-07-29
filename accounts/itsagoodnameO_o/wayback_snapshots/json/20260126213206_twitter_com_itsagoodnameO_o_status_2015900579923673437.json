@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2015292882719281598",
+    "created_at": "2026-01-26T21:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T22:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015900579923673437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "824261310552514560",
+          "start": 0,
+          "username": "soshyu_suwako"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015900579923673437",
+    "in_reply_to_user_id": "824261310552514560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015292882719281598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soshyu_suwako 我真不行了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 868,
+        "media_key": "3_2015292871323369472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_fCMGGbQAA0C8v.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2015292882719281598",
+        "created_at": "2026-01-26T21:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T22:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015900579923673437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "824261310552514560",
+              "start": 0,
+              "username": "soshyu_suwako"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015900579923673437",
+        "in_reply_to_user_id": "824261310552514560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015292882719281598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soshyu_suwako 我真不行了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015292871323369472"
+          ]
+        },
+        "author_id": "824261310552514560",
+        "conversation_id": "2015292882719281598",
+        "created_at": "2026-01-25T05:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T06:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015292882719281598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GnbtBdZ0qc",
+              "end": 49,
+              "expanded_url": "https://x.com/soshyu_suwako/status/2015292882719281598/photo/1",
+              "media_key": "3_2015292871323369472",
+              "start": 26,
+              "url": "https://t.co/GnbtBdZ0qc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015292882719281598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 85115,
+          "like_count": 599,
+          "quote_count": 12,
+          "reply_count": 30,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "我们不说「改花刀」\n我们说「具有伤害性的创意手工」 https://t.co/GnbtBdZ0qc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 80,
+          "like_count": 1279,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 107
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-25T14:23:05.000Z",
+        "description": "刚来推小透明",
+        "id": "824261310552514560",
+        "location": "島根 松江市",
+        "name": "双秀諏訪子",
+        "pinned_tweet_id": "1834939041957192113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966099323474857985/LHnSW1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 795,
+          "like_count": 9513,
+          "listed_count": 7,
+          "media_count": 1587,
+          "tweet_count": 4589
+        },
+        "username": "soshyu_suwako",
+        "verified": false
+      }
+    ]
+  }
+}

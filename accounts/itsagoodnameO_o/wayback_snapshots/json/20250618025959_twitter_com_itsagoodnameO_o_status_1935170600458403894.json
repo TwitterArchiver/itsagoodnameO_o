@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "1935169423729742114",
+    "created_at": "2025-06-18T02:59:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T03:59:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935170600458403894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1747931023277502465",
+          "start": 0,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935170600458403894",
+    "in_reply_to_user_id": "1747931023277502465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935169423729742114",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damatte8964 宝宝你特别美🥺别把前男友说的这些话往心里去。。你发的照片都很好看穿的衣服也特别美。虽然我们没有见过面但是非常喜欢你。。别质疑自己宝宝😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "1935169423729742114",
+        "created_at": "2025-06-18T02:59:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T03:59:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935170600458403894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1747931023277502465",
+              "start": 0,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935170600458403894",
+        "in_reply_to_user_id": "1747931023277502465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935169423729742114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damatte8964 宝宝你特别美🥺别把前男友说的这些话往心里去。。你发的照片都很好看穿的衣服也特别美。虽然我们没有见过面但是非常喜欢你。。别质疑自己宝宝😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747931023277502465",
+        "conversation_id": "1935169423729742114",
+        "created_at": "2025-06-18T02:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T03:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935169423729742114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935169423729742114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我也想只接纯绿什么的，但我长得太丑了也没啥好看的衣服估计没人愿意约我纯绿，虽然我也只接过唯一一个门槛哥非绿，前夫哥说我的价值也就是有个逼，虽然明明知道不是这样，但还是忍不住会伤心。。。我今天又早退了 唉😞😞😞如果有一个爱我保护我给我钱的人就好了，但这样的我真的配吗，就算遇到了我也会逃走吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想只接纯绿什么的，但我长得太丑了也没啥好看的衣服估计没人愿意约我纯绿，虽然我也只接过唯一一个门槛哥非绿，前夫哥说我的价值也就是有个逼，虽然明明知道不是这样，但还是忍不住会伤心。。。我今天又早退了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "芹菜。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 45,
+          "like_count": 449,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*  我需要 很多的钱 很多的爱 很多的追捧 很多的陪伴",
+        "id": "1747931023277502465",
+        "location": "🚪99/198/520/1314呜呜呜呜呜呜",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1934964163543281741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33210,
+          "following_count": 740,
+          "like_count": 6620,
+          "listed_count": 43,
+          "media_count": 163,
+          "tweet_count": 2179
+        },
+        "username": "damatte8964",
+        "verified": false
+      }
+    ]
+  }
+}

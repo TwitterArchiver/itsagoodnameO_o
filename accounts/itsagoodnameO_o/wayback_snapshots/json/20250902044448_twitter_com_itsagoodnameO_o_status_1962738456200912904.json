@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962488804436312065"
+      ],
+      "media_source_tweet_id": [
+        "1962488810585121098"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "conversation_id": "1962738456200912904",
+    "created_at": "2025-09-02T04:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T05:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962738456200912904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1780282643789291524",
+          "start": 3,
+          "username": "_xtyvqr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XyTgkmW87v",
+          "end": 36,
+          "expanded_url": "https://x.com/_xtyvqr/status/1962488810585121098/photo/1",
+          "media_key": "3_1962488804436312065",
+          "start": 13,
+          "url": "https://t.co/XyTgkmW87v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962738456200912904",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962488810585121098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_xtyvqr: https://t.co/XyTgkmW87v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962488804436312065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzwpK4AbgAEPA7g.jpg",
+        "width": 1479
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962488804436312065"
+          ],
+          "media_source_tweet_id": [
+            "1962488810585121098"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "conversation_id": "1962738456200912904",
+        "created_at": "2025-09-02T04:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T05:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962738456200912904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1780282643789291524",
+              "start": 3,
+              "username": "_xtyvqr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XyTgkmW87v",
+              "end": 36,
+              "expanded_url": "https://x.com/_xtyvqr/status/1962488810585121098/photo/1",
+              "media_key": "3_1962488804436312065",
+              "start": 13,
+              "url": "https://t.co/XyTgkmW87v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962738456200912904",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962488810585121098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_xtyvqr: https://t.co/XyTgkmW87v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962488804436312065"
+          ]
+        },
+        "author_id": "1780282643789291524",
+        "conversation_id": "1962488810585121098",
+        "created_at": "2025-09-01T12:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T13:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962488810585121098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XyTgkmW87v",
+              "end": 23,
+              "expanded_url": "https://x.com/_xtyvqr/status/1962488810585121098/photo/1",
+              "media_key": "3_1962488804436312065",
+              "start": 0,
+              "url": "https://t.co/XyTgkmW87v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962488810585121098",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 11700,
+          "like_count": 1313,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XyTgkmW87v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "我操坏事都是美国干的我恨你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 62,
+          "like_count": 831,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 73
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T17:10:43.000Z",
+        "description": "ぁ？酒飲めｺﾞﾙｧ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/d_kinxtama_o?s…",
+                "end": 23,
+                "expanded_url": "https://x.com/d_kinxtama_o?s=21",
+                "start": 0,
+                "url": "https://t.co/q1SYCurV4e"
+              }
+            ]
+          }
+        },
+        "id": "1780282643789291524",
+        "location": "亡命中",
+        "name": "中辛は死んだ",
+        "pinned_tweet_id": "1945111109175787907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841899215179460608/xqGfFkQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6681,
+          "following_count": 58,
+          "like_count": 9558,
+          "listed_count": 14,
+          "media_count": 112,
+          "tweet_count": 2578
+        },
+        "url": "https://t.co/q1SYCurV4e",
+        "username": "_xtyvqr",
+        "verified": false
+      }
+    ]
+  }
+}

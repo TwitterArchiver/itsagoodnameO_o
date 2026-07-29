@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2079567455593304522",
+    "created_at": "2026-07-21T16:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T17:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079600314643280336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1994724283176947712",
+          "start": 0,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079600314643280336",
+    "in_reply_to_user_id": "1994724283176947712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079567455593304522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lvovl3 我也喜欢…永恒的秩序"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2079567455593304522",
+        "created_at": "2026-07-21T16:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079600314643280336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1994724283176947712",
+              "start": 0,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079600314643280336",
+        "in_reply_to_user_id": "1994724283176947712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079567455593304522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lvovl3 我也喜欢…永恒的秩序"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994724283176947712",
+        "conversation_id": "2079567455593304522",
+        "created_at": "2026-07-21T14:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079567455593304522"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079567455593304522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在思考如果我没有这些精神疾病(天生的)\n也没有创伤导致的心理问题\n我还会不会走上嗑药这条道路\n我并不是一个觉得好玩就去好玩的人\n我喜欢一切都在掌握里我喜欢永恒的秩序"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079572464414445568/oRlzRC9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 138,
+          "like_count": 1808,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 440
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD 双相 精神分裂 ed 剧烈嗑药中！同类回fo\n模仿人类失败者/全世界最恨homework之人/not alien\n人生是被恐惧追赶着逃跑\n请祝福我快些死掉吧！",
+        "id": "1994724283176947712",
+        "location": "@luciawannadone",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2074645061342826708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079459942181007360/74nzgbYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 499,
+          "like_count": 3998,
+          "listed_count": 0,
+          "media_count": 341,
+          "tweet_count": 4381
+        },
+        "url": "",
+        "username": "lvovl3",
+        "verified": false
+      }
+    ]
+  }
+}

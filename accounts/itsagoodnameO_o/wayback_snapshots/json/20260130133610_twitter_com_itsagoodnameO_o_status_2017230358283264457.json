@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2016767186107584536",
+    "created_at": "2026-01-30T13:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T14:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017230358283264457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1626271885217652736",
+          "start": 0,
+          "username": "LeOveRatioxxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017230358283264457",
+    "in_reply_to_user_id": "1626271885217652736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017228759615864946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeOveRatioxxx 已經戒掉，抵制！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2016767186107584536",
+        "created_at": "2026-01-30T13:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017230358283264457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1626271885217652736",
+              "start": 0,
+              "username": "LeOveRatioxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017230358283264457",
+        "in_reply_to_user_id": "1626271885217652736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017228759615864946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeOveRatioxxx 已經戒掉，抵制！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626271885217652736",
+        "conversation_id": "2016767186107584536",
+        "created_at": "2026-01-30T13:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017228759615864946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017228759615864946",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016767186107584536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 抵制。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 80,
+          "like_count": 1287,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 112
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T17:27:03.000Z",
+        "description": "道可道，非常道。名可名，非常名。",
+        "id": "1626271885217652736",
+        "name": "Sleeeeeeper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014788238230327296/-_axZ_pU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 163,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "LeOveRatioxxx",
+        "verified": false
+      }
+    ]
+  }
+}

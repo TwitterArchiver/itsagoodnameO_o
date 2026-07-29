@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2003445834466414592"
+      ],
+      "media_source_tweet_id": [
+        "2003445943719600302"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2004486392345514116",
+    "created_at": "2025-12-26T09:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T10:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004486392345514116"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 44,
+          "tag": "NEEDY_GIRL_OVERDOSE"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1513831744558231552",
+          "start": 3,
+          "username": "okan_eizo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cCvGzo4K0V",
+          "end": 88,
+          "expanded_url": "https://x.com/okan_eizo/status/2003445943719600302/video/1",
+          "media_key": "13_2003445834466414592",
+          "start": 65,
+          "url": "https://t.co/cCvGzo4K0V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004486392345514116",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1224
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003445943719600302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okan_eizo: きゅびびびびずむ\n絵と映像を作りました。二次創作です。\n #NEEDY_GIRL_OVERDOSE https://t.co/cCvGzo4K0V"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11610,
+        "height": 720,
+        "media_key": "13_2003445834466414592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2003445834466414592/img/V0kifwAtFEeZjhqv.jpg",
+        "public_metrics": {
+          "view_count": 26287
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003445834466414592/vid/avc1/480x270/WVQM09Xijukj5P9N.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003445834466414592/vid/avc1/640x360/ktXvIunPvej8_szj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2003445834466414592/vid/avc1/1280x720/wE30cvhDzA_sK9B4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2003445834466414592/pl/kQSyqOswKjPy7LII.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003445834466414592"
+          ],
+          "media_source_tweet_id": [
+            "2003445943719600302"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2004486392345514116",
+        "created_at": "2025-12-26T09:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T10:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004486392345514116"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 44,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1513831744558231552",
+              "start": 3,
+              "username": "okan_eizo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cCvGzo4K0V",
+              "end": 88,
+              "expanded_url": "https://x.com/okan_eizo/status/2003445943719600302/video/1",
+              "media_key": "13_2003445834466414592",
+              "start": 65,
+              "url": "https://t.co/cCvGzo4K0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004486392345514116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1224
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003445943719600302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okan_eizo: きゅびびびびずむ\n絵と映像を作りました。二次創作です。\n #NEEDY_GIRL_OVERDOSE https://t.co/cCvGzo4K0V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2003445834466414592"
+          ]
+        },
+        "author_id": "1513831744558231552",
+        "conversation_id": "2003445943719600302",
+        "created_at": "2025-12-23T12:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T13:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003445943719600302"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 29,
+              "tag": "NEEDY_GIRL_OVERDOSE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cCvGzo4K0V",
+              "end": 73,
+              "expanded_url": "https://x.com/okan_eizo/status/2003445943719600302/video/1",
+              "media_key": "13_2003445834466414592",
+              "start": 50,
+              "url": "https://t.co/cCvGzo4K0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003445943719600302",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 790,
+          "impression_count": 64041,
+          "like_count": 6222,
+          "quote_count": 16,
+          "reply_count": 3,
+          "retweet_count": 1224
+        },
+        "reply_settings": "everyone",
+        "text": "きゅびびびびずむ\n絵と映像を作りました。二次創作です。\n #NEEDY_GIRL_OVERDOSE https://t.co/cCvGzo4K0V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 80,
+          "like_count": 1207,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 98
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T10:50:14.000Z",
+        "description": "映像 @karure0401",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "karure0401"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "okanworks.myportfolio.com/work",
+                "end": 23,
+                "expanded_url": "https://okanworks.myportfolio.com/work",
+                "start": 0,
+                "url": "https://t.co/1yO0CQv4GH"
+              }
+            ]
+          }
+        },
+        "id": "1513831744558231552",
+        "location": "okan.works100@gmail.com",
+        "name": "Okan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999410228342005760/4on1nyH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 331,
+          "like_count": 18316,
+          "listed_count": 18,
+          "media_count": 362,
+          "tweet_count": 2473
+        },
+        "url": "https://t.co/1yO0CQv4GH",
+        "username": "okan_eizo",
+        "verified": false
+      }
+    ]
+  }
+}

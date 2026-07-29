@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2071217303635509584",
+    "created_at": "2026-06-29T03:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T04:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071432230514434277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1738574376457646080",
+          "start": 0,
+          "username": "pofCat2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071432230514434277",
+    "in_reply_to_user_id": "1738574376457646080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071217303635509584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pofCat2 这就是我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2071217303635509584",
+        "created_at": "2026-06-29T03:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T04:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071432230514434277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1738574376457646080",
+              "start": 0,
+              "username": "pofCat2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071432230514434277",
+        "in_reply_to_user_id": "1738574376457646080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071217303635509584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pofCat2 这就是我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738574376457646080",
+        "conversation_id": "2071217303635509584",
+        "created_at": "2026-06-28T13:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071217303635509584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071217303635509584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4364,
+          "like_count": 92,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "不考虑任何因素我根本不想从事任何职业。我只想当一个有钱的无业游民"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071229889160880128/puKik6XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 89,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T14:57:00.000Z",
+        "description": "平静一些幸福一些ovo",
+        "id": "1738574376457646080",
+        "name": "泡芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056425564060434432/gFxd3q7E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 26,
+          "like_count": 2941,
+          "listed_count": 7,
+          "media_count": 34,
+          "tweet_count": 835
+        },
+        "url": "",
+        "username": "pofCat2",
+        "verified": false
+      }
+    ]
+  }
+}

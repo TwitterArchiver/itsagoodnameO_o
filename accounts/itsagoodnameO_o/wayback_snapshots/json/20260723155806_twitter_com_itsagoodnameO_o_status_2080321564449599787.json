@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080321419297292288",
+        "3_2080311193869447169"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2080321564449599787",
+    "created_at": "2026-07-23T15:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080321564449599787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/64qlBuxc2g",
+          "end": 51,
+          "expanded_url": "https://x.com/itsagoodnameO_o/status/2080321564449599787/photo/1",
+          "media_key": "3_2080321419297292288",
+          "start": 28,
+          "url": "https://t.co/64qlBuxc2g"
+        },
+        {
+          "display_url": "pic.x.com/64qlBuxc2g",
+          "end": 51,
+          "expanded_url": "https://x.com/itsagoodnameO_o/status/2080321564449599787/photo/1",
+          "media_key": "3_2080311193869447169",
+          "start": 28,
+          "url": "https://t.co/64qlBuxc2g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080321564449599787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我二十块钱买了这些刺身，七块钱买了这些小番茄。好值吧！ https://t.co/64qlBuxc2g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080321419297292288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7JTw_aAAAZeV9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2080311193869447169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7AAkTbcAEJV5K.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080321419297292288",
+            "3_2080311193869447169"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080321564449599787",
+        "created_at": "2026-07-23T15:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080321564449599787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/64qlBuxc2g",
+              "end": 51,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2080321564449599787/photo/1",
+              "media_key": "3_2080321419297292288",
+              "start": 28,
+              "url": "https://t.co/64qlBuxc2g"
+            },
+            {
+              "display_url": "pic.x.com/64qlBuxc2g",
+              "end": 51,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2080321564449599787/photo/1",
+              "media_key": "3_2080311193869447169",
+              "start": 28,
+              "url": "https://t.co/64qlBuxc2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080321564449599787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我二十块钱买了这些刺身，七块钱买了这些小番茄。好值吧！ https://t.co/64qlBuxc2g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079572464414445568/oRlzRC9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 131,
+          "like_count": 1881,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 470
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

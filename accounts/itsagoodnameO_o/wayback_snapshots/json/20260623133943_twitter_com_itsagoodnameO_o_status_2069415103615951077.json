@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069110577621090304",
+        "3_2069110577625219072"
+      ],
+      "media_source_tweet_id": [
+        "2069110583161725103",
+        "2069110583161725103"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069415103615951077",
+    "created_at": "2026-06-23T13:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T14:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069415103615951077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040136232034791424",
+          "start": 3,
+          "username": "seka1nohate"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BRnnKAywHN",
+          "end": 118,
+          "expanded_url": "https://x.com/seka1nohate/status/2069110583161725103/photo/1",
+          "media_key": "3_2069110577621090304",
+          "start": 95,
+          "url": "https://t.co/BRnnKAywHN"
+        },
+        {
+          "display_url": "pic.x.com/BRnnKAywHN",
+          "end": 118,
+          "expanded_url": "https://x.com/seka1nohate/status/2069110583161725103/photo/1",
+          "media_key": "3_2069110577625219072",
+          "start": 95,
+          "url": "https://t.co/BRnnKAywHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069415103615951077",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 270
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069110583161725103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @seka1nohate: 나 에바 처음 보고 아야나미 레이 소독약 피냄새 나는 정신병 방 너무 좋아가지고 충격이었는데 몇 년 만에 돌고 돌아서 철제 가구 사고 싶음 https://t.co/BRnnKAywHN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 552,
+        "media_key": "3_2069110577621090304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLb1G5QbwAATYiC.jpg",
+        "width": 736
+      },
+      {
+        "height": 552,
+        "media_key": "3_2069110577625219072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLb1G5RawAAeRuK.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069110577621090304",
+            "3_2069110577625219072"
+          ],
+          "media_source_tweet_id": [
+            "2069110583161725103",
+            "2069110583161725103"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069415103615951077",
+        "created_at": "2026-06-23T13:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069415103615951077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040136232034791424",
+              "start": 3,
+              "username": "seka1nohate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRnnKAywHN",
+              "end": 118,
+              "expanded_url": "https://x.com/seka1nohate/status/2069110583161725103/photo/1",
+              "media_key": "3_2069110577621090304",
+              "start": 95,
+              "url": "https://t.co/BRnnKAywHN"
+            },
+            {
+              "display_url": "pic.x.com/BRnnKAywHN",
+              "end": 118,
+              "expanded_url": "https://x.com/seka1nohate/status/2069110583161725103/photo/1",
+              "media_key": "3_2069110577625219072",
+              "start": 95,
+              "url": "https://t.co/BRnnKAywHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069415103615951077",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 270
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069110583161725103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @seka1nohate: 나 에바 처음 보고 아야나미 레이 소독약 피냄새 나는 정신병 방 너무 좋아가지고 충격이었는데 몇 년 만에 돌고 돌아서 철제 가구 사고 싶음 https://t.co/BRnnKAywHN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069110577621090304",
+            "3_2069110577625219072"
+          ]
+        },
+        "author_id": "2040136232034791424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069110583161725103",
+        "created_at": "2026-06-22T17:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T18:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069110583161725103"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BRnnKAywHN",
+              "end": 101,
+              "expanded_url": "https://x.com/seka1nohate/status/2069110583161725103/photo/1",
+              "media_key": "3_2069110577621090304",
+              "start": 78,
+              "url": "https://t.co/BRnnKAywHN"
+            },
+            {
+              "display_url": "pic.x.com/BRnnKAywHN",
+              "end": 101,
+              "expanded_url": "https://x.com/seka1nohate/status/2069110583161725103/photo/1",
+              "media_key": "3_2069110577625219072",
+              "start": 78,
+              "url": "https://t.co/BRnnKAywHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069110583161725103",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 593,
+          "impression_count": 114950,
+          "like_count": 3443,
+          "quote_count": 47,
+          "reply_count": 0,
+          "retweet_count": 270
+        },
+        "reply_settings": "everyone",
+        "text": "나 에바 처음 보고 아야나미 레이 소독약 피냄새 나는 정신병 방 너무 좋아가지고 충격이었는데 몇 년 만에 돌고 돌아서 철제 가구 사고 싶음 https://t.co/BRnnKAywHN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 85,
+          "like_count": 1516,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T18:36:12.000Z",
+        "description": "",
+        "id": "2040136232034791424",
+        "name": "ﾅﾃﾞｼｺ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045988417780191232/-w0ggc3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 98,
+          "like_count": 308,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "seka1nohate",
+        "verified": false
+      }
+    ]
+  }
+}

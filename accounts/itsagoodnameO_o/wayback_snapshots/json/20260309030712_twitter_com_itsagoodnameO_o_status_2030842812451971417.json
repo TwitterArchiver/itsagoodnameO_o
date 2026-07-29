@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "1925752998409412618",
+    "created_at": "2026-03-09T03:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T04:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030842812451971417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1849048372801392640",
+          "start": 0,
+          "username": "fuyudoll"
+        },
+        {
+          "end": 25,
+          "id": "1524237282680705024",
+          "start": 10,
+          "username": "Thec0mmunity18"
+        },
+        {
+          "end": 39,
+          "id": "1625491529384222725",
+          "start": 26,
+          "username": "Kuroinu_0111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030842812451971417",
+    "in_reply_to_user_id": "1849048372801392640",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029115836699418775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuyudoll @Thec0mmunity18 @Kuroinu_0111 idk if any other website can buy it, maybe you can try to search with the key words."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "1925752998409412618",
+        "created_at": "2026-03-09T03:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030842812451971417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1849048372801392640",
+              "start": 0,
+              "username": "fuyudoll"
+            },
+            {
+              "end": 25,
+              "id": "1524237282680705024",
+              "start": 10,
+              "username": "Thec0mmunity18"
+            },
+            {
+              "end": 39,
+              "id": "1625491529384222725",
+              "start": 26,
+              "username": "Kuroinu_0111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030842812451971417",
+        "in_reply_to_user_id": "1849048372801392640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029115836699418775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuyudoll @Thec0mmunity18 @Kuroinu_0111 idk if any other website can buy it, maybe you can try to search with the key words."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849048372801392640",
+        "conversation_id": "1925752998409412618",
+        "created_at": "2026-03-04T08:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T09:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029115836699418775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            },
+            {
+              "end": 32,
+              "id": "1524237282680705024",
+              "start": 17,
+              "username": "Thec0mmunity18"
+            },
+            {
+              "end": 46,
+              "id": "1625491529384222725",
+              "start": 33,
+              "username": "Kuroinu_0111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029115836699418775",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957127315584086329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o @Thec0mmunity18 @Kuroinu_0111 which one? what should i look for to find it?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 82,
+          "like_count": 1403,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 163
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-23T11:21:14.000Z",
+        "description": "♡⸝⸝ nct's dᰔll ◞ im completely normal about #hearts2hearts ₊⊹ ( 3/10kg )",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 44,
+                "tag": "hearts2hearts"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuyudoli.carrd.co",
+                "end": 23,
+                "expanded_url": "http://fuyudoli.carrd.co",
+                "start": 0,
+                "url": "https://t.co/s7q3ALf1Wt"
+              }
+            ]
+          }
+        },
+        "id": "1849048372801392640",
+        "location": "2005┃cbmi 19s┃ugw 40┃spain ",
+        "name": "𝒥ade ⋆˙⟡",
+        "pinned_tweet_id": "1984091968360636759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024573494155956224/-_MBFk8t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 569,
+          "like_count": 23909,
+          "listed_count": 7,
+          "media_count": 476,
+          "tweet_count": 3399
+        },
+        "url": "https://t.co/s7q3ALf1Wt",
+        "username": "fuyudoll",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T04:06:32.000Z",
+        "description": "Hi I'm angle\n\nShedtwt",
+        "id": "1524237282680705024",
+        "location": "he/him",
+        "name": "Bunny",
+        "pinned_tweet_id": "1958410751955099842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969390739390967808/N_UINXYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 101,
+          "like_count": 1476,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 815
+        },
+        "username": "Thec0mmunity18",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T13:46:14.000Z",
+        "description": "いのちを削る甘い作品と、レースで飾られたくぬの日記。 —————店長くろいぬ。作品はハイライトに載せてます。不定期に通販してますshop→ https://t.co/ytVIwAzrWO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "asiato26.base.shop",
+                "end": 93,
+                "expanded_url": "https://asiato26.base.shop/",
+                "start": 70,
+                "url": "https://t.co/ytVIwAzrWO"
+              }
+            ]
+          }
+        },
+        "id": "1625491529384222725",
+        "location": "くぬのハッピーな記録",
+        "name": "くぬ",
+        "pinned_tweet_id": "1991837563867545713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925757965442732032/DzSLj_qP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12091,
+          "following_count": 86,
+          "like_count": 14017,
+          "listed_count": 55,
+          "media_count": 607,
+          "tweet_count": 4397
+        },
+        "username": "Kuroinu_0111",
+        "verified": false
+      }
+    ]
+  }
+}

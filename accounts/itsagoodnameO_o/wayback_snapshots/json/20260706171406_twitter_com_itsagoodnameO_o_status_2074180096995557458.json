@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2074083844589023445",
+    "created_at": "2026-07-06T17:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074180096995557458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1971027114582474752",
+          "start": 0,
+          "username": "Kanataqqq0221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074180096995557458",
+    "in_reply_to_user_id": "1971027114582474752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074083844589023445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanataqqq0221 宝宝你怎么这么萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074083829518917632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMigQQTbYAAlPAP.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074083827849592832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMigQKFbgAAQHb8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2074083844589023445",
+        "created_at": "2026-07-06T17:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074180096995557458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1971027114582474752",
+              "start": 0,
+              "username": "Kanataqqq0221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074180096995557458",
+        "in_reply_to_user_id": "1971027114582474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074083844589023445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanataqqq0221 宝宝你怎么这么萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074083829518917632",
+            "3_2074083827849592832"
+          ]
+        },
+        "author_id": "1971027114582474752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074083844589023445",
+        "created_at": "2026-07-06T10:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074083844589023445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wekOqEtWO7",
+              "end": 27,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2074083844589023445/photo/1",
+              "media_key": "3_2074083829518917632",
+              "start": 4,
+              "url": "https://t.co/wekOqEtWO7"
+            },
+            {
+              "display_url": "pic.x.com/wekOqEtWO7",
+              "end": 27,
+              "expanded_url": "https://x.com/Kanataqqq0221/status/2074083844589023445/photo/1",
+              "media_key": "3_2074083827849592832",
+              "start": 4,
+              "url": "https://t.co/wekOqEtWO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074083844589023445",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 314,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "QwQ https://t.co/wekOqEtWO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 114,
+          "like_count": 1569,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 293
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T01:41:12.000Z",
+        "description": "=破滅/神月丨♀丨17歲の音ゲーマ、音ゲー関連のイラストを描いてるよ^^丨スシロー賽高丨中文&日本語⭕️英語❌丨maimaiでらっくす16217丨 彼氏@TORLI114514 丨逃生艙@Kanataqqq9178丨OC相關投稿➡️#Kam1zuk1_art",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 129,
+                "start": 116,
+                "tag": "Kam1zuk1_art"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "TORLI114514"
+              },
+              {
+                "end": 107,
+                "start": 93,
+                "username": "Kanataqqq9178"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120006350",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/120006350",
+                "start": 0,
+                "url": "https://t.co/aKrTSIxMvD"
+              }
+            ]
+          }
+        },
+        "id": "1971027114582474752",
+        "location": "破滅の部屋",
+        "name": "Kanataqかなたく＊滅3rdBOT",
+        "pinned_tweet_id": "2059089706206605366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054826581827502080/UAI3TenM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 764,
+          "following_count": 372,
+          "like_count": 2902,
+          "listed_count": 5,
+          "media_count": 380,
+          "tweet_count": 2097
+        },
+        "url": "https://t.co/aKrTSIxMvD",
+        "username": "Kanataqqq0221",
+        "verified": false
+      }
+    ]
+  }
+}

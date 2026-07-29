@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2019700251805044998",
+    "created_at": "2026-02-06T09:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T10:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019700251805044998"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019700251805044998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "PVE打得生氣，PVP打得也生氣。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2019700251805044998",
+        "created_at": "2026-02-06T09:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019700251805044998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019700251805044998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "PVE打得生氣，PVP打得也生氣。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 81,
+          "like_count": 1348,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 142
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

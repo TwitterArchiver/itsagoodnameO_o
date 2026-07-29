@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "1936781191438561669",
+    "created_at": "2025-06-23T08:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T09:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937069086632206770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937069086632206770",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936781191438561669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 他妈的这是假的吧，别写出来恶心人了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 878,
+        "media_key": "3_1936781188498161664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuDUOrwXgAA4vkq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "1936781191438561669",
+        "created_at": "2025-06-23T08:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T09:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937069086632206770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937069086632206770",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936781191438561669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 他妈的这是假的吧，别写出来恶心人了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936781188498161664"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "1936781191438561669",
+        "created_at": "2025-06-22T13:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T14:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936781191438561669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uA33T1qrfj",
+              "end": 30,
+              "expanded_url": "https://x.com/zqtlovekris99/status/1936781191438561669/photo/1",
+              "media_key": "3_1936781188498161664",
+              "start": 7,
+              "url": "https://t.co/uA33T1qrfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936781191438561669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 717456,
+          "like_count": 2474,
+          "quote_count": 17,
+          "reply_count": 299,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "看着就肚子疼 https://t.co/uA33T1qrfj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "我操坏事都是美国干的我恨你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 48,
+          "like_count": 520,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 42
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "翻车顺女 HRT 2023.05.29 | 求求你们关注竹蜻蜓吧，关注竹蜻蜓谢谢喵🐱 | ❤️ @Nekosora0228 @Misako_25ji | 小狗 @hzyj772 | 墙内好友位🚪68搞黄128",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 48,
+                "username": "Nekosora0228"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Misako_25ji"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "hzyj772"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/fYYZhHGMBx"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "They/them",
+        "name": "🍀🍥竹蜻蜓🍥🍀（戒OD第∞天）每天都是最后一天OD",
+        "pinned_tweet_id": "1926184805332320661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759049361043165185/JL_AC3BK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8373,
+          "following_count": 716,
+          "like_count": 19608,
+          "listed_count": 10,
+          "media_count": 2887,
+          "tweet_count": 19564
+        },
+        "url": "https://t.co/fYYZhHGMBx",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

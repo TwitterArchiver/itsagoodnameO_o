@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2072649965432906000",
+    "created_at": "2026-07-02T18:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T19:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072750248418758738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1624344475953946624",
+          "start": 0,
+          "username": "kagamiiiiii_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072750248418758738",
+    "in_reply_to_user_id": "1624344475953946624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072746929151520932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagamiiiiii_ 我每一次去香港回来都没有被查耶，所以我觉得放在身上然后坦荡直接走掉应该就OK了。当然需要穿得健全一点🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2072649965432906000",
+        "created_at": "2026-07-02T18:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072750248418758738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1624344475953946624",
+              "start": 0,
+              "username": "kagamiiiiii_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072750248418758738",
+        "in_reply_to_user_id": "1624344475953946624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072746929151520932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagamiiiiii_ 我每一次去香港回来都没有被查耶，所以我觉得放在身上然后坦荡直接走掉应该就OK了。当然需要穿得健全一点🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624344475953946624",
+        "conversation_id": "2072649965432906000",
+        "created_at": "2026-07-02T18:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072746929151520932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072746929151520932",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072649965432906000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 回来过海关的时候会被查到吗🥺带药品之类的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 100,
+          "like_count": 1546,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-11T09:48:31.000Z",
+        "description": "🏳️‍🌈 ゆきです。、？",
+        "id": "1624344475953946624",
+        "name": "【】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624344958080778240/4e-b2Q7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 202,
+          "like_count": 1032,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "kagamiiiiii_",
+        "verified": false
+      }
+    ]
+  }
+}

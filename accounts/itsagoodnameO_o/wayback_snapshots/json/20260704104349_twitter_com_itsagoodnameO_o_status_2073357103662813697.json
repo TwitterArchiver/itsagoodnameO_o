@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2073335530990006341",
+    "created_at": "2026-07-04T10:43:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:43:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073357103662813697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1901639919308820480",
+          "start": 0,
+          "username": "Miyuki__ii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073357103662813697",
+    "in_reply_to_user_id": "1901639919308820480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073335530990006341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyuki__ii 超级美萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10145,
+        "height": 1280,
+        "media_key": "13_2073335465961541632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073335465961541632/img/87SYPqb9W3qGmzXQ.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073335465961541632/vid/avc1/320x568/Tmf7rNZZLK11TrCX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073335465961541632/vid/avc1/480x852/Ij1y6dYoahSTZ-qf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073335465961541632/vid/avc1/720x1280/eMhhEt7cMvM7A2rO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073335465961541632/pl/slqzM1d5Vgotrtx4.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2073335530990006341",
+        "created_at": "2026-07-04T10:43:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:43:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073357103662813697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1901639919308820480",
+              "start": 0,
+              "username": "Miyuki__ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073357103662813697",
+        "in_reply_to_user_id": "1901639919308820480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073335530990006341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyuki__ii 超级美萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073335465961541632"
+          ]
+        },
+        "author_id": "1901639919308820480",
+        "conversation_id": "2073335530990006341",
+        "created_at": "2026-07-04T09:18:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T10:18:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073335530990006341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qMJC1Oe1d0",
+              "end": 27,
+              "expanded_url": "https://x.com/Miyuki__ii/status/2073335530990006341/video/1",
+              "media_key": "13_2073335465961541632",
+              "start": 4,
+              "url": "https://t.co/qMJC1Oe1d0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073335530990006341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新裙子 https://t.co/qMJC1Oe1d0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 114,
+          "like_count": 1561,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T14:21:44.000Z",
+        "description": "天秤座 istp \n喜欢Metal 啤酒 \n喜欢看书看电影 可以一起来交流 \n有🚪 纯绿\n小号@Rikoar3r （只关注好友\n欢迎来提问https://t.co/IqvPpSHH7l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Rikoar3r"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/miyuki80391",
+                "end": 92,
+                "expanded_url": "https://ngl.link/miyuki80391",
+                "start": 69,
+                "url": "https://t.co/IqvPpSHH7l"
+              }
+            ]
+          }
+        },
+        "id": "1901639919308820480",
+        "location": "猫",
+        "name": "刚塞被屁崩出",
+        "pinned_tweet_id": "1957792894594503012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071512312738205696/KD9-0gyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 168,
+          "like_count": 7028,
+          "listed_count": 3,
+          "media_count": 472,
+          "tweet_count": 1383
+        },
+        "url": "",
+        "username": "Miyuki__ii",
+        "verified": false
+      }
+    ]
+  }
+}

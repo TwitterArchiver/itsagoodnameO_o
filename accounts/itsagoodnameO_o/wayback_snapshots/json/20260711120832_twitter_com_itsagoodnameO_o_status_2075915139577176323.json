@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2075885017474240663",
+    "created_at": "2026-07-11T12:08:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:08:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075915139577176323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "606010466",
+          "start": 0,
+          "username": "h0911447121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075915139577176323",
+    "in_reply_to_user_id": "606010466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075914338964217962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h0911447121 问问价"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2075885017474240663",
+        "created_at": "2026-07-11T12:08:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:08:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075915139577176323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "606010466",
+              "start": 0,
+              "username": "h0911447121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075915139577176323",
+        "in_reply_to_user_id": "606010466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075914338964217962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h0911447121 问问价"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "606010466",
+        "conversation_id": "2075885017474240663",
+        "created_at": "2026-07-11T12:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075914338964217962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075914338964217962",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075885017474240663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 有的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 115,
+          "like_count": 1575,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 320
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-12T04:29:18.000Z",
+        "description": "",
+        "id": "606010466",
+        "name": "趙思偉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064024884595089412/3xlx9Nx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 29,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "h0911447121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "1950656903098560805",
+    "created_at": "2025-07-30T20:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T21:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950656903098560805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MasayukiTsuda2…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/MasayukiTsuda2/status/1950307092541427727",
+          "start": 5,
+          "url": "https://t.co/eqnAAcNqza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950656903098560805",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950307092541427727",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "かわいい https://t.co/eqnAAcNqza"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31743,
+        "height": 1280,
+        "media_key": "7_1935668971866357761",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1935668971866357761/pu/img/jaGY7-sd085zgQ3w.jpg",
+        "public_metrics": {
+          "view_count": 729448
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1935668971866357761/pu/vid/avc1/320x568/IVA-9__pO41Xoq3W.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1935668971866357761/pu/vid/avc1/480x852/QwYHF_6ttexbZXDF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1935668971866357761/pu/vid/avc1/720x1280/tSD3ZuWsBsni8WqM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1935668971866357761/pu/pl/Mx3EUttZRrL33lD-.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "1950656903098560805",
+        "created_at": "2025-07-30T20:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T21:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950656903098560805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MasayukiTsuda2…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/MasayukiTsuda2/status/1950307092541427727",
+              "start": 5,
+              "url": "https://t.co/eqnAAcNqza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950656903098560805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950307092541427727",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "かわいい https://t.co/eqnAAcNqza"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1935668971866357761"
+          ],
+          "media_source_tweet_id": [
+            "1935669024664563918"
+          ]
+        },
+        "author_id": "1085338453665996800",
+        "conversation_id": "1950307092541427727",
+        "created_at": "2025-07-29T21:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T22:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950307092541427727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kP2Tu1DlxK",
+              "end": 50,
+              "expanded_url": "https://x.com/gogogos_/status/1935669024664563918/video/1",
+              "media_key": "7_1935668971866357761",
+              "start": 27,
+              "url": "https://t.co/kP2Tu1DlxK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950307092541427727",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7798,
+          "impression_count": 1734749,
+          "like_count": 54998,
+          "quote_count": 407,
+          "reply_count": 10,
+          "retweet_count": 7539
+        },
+        "reply_settings": "verified",
+        "text": "丸まって眠るコアラ。寝息の音がマイクで拾われています\nhttps://t.co/kP2Tu1DlxK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "我操坏事都是美国干的我恨你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 55,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 53
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-16T00:50:26.000Z",
+        "description": "津田雅之。比較文学研究者。『批評家クルティウスのヨーロッパ精神』。共著に、 Pluralité des cultures 、Roman mystique、La Grande Guerre vue de Méditerranée 、Littératures et arts du vide など。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osaka-u.academia.edu/MasayukiTsuda",
+                "end": 23,
+                "expanded_url": "https://osaka-u.academia.edu/MasayukiTsuda",
+                "start": 0,
+                "url": "https://t.co/cbPgV1KkFJ"
+              }
+            ]
+          }
+        },
+        "id": "1085338453665996800",
+        "location": "Osaka",
+        "name": "Masayuki Tsuda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1085342087162126336/TLfZ4-IC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116568,
+          "following_count": 1410,
+          "like_count": 27911,
+          "listed_count": 995,
+          "media_count": 3833,
+          "tweet_count": 5550
+        },
+        "url": "https://t.co/cbPgV1KkFJ",
+        "username": "MasayukiTsuda2",
+        "verified": true
+      }
+    ]
+  }
+}

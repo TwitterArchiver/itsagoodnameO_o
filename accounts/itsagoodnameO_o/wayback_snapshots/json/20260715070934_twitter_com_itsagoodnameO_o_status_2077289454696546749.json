@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2077083632389541944",
+    "created_at": "2026-07-15T07:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077289454696546749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "930395936290881536",
+          "start": 0,
+          "username": "MarSnChen1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077289454696546749",
+    "in_reply_to_user_id": "930395936290881536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077285233704247636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MarSnChen1 好嘞！谢谢(^^)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2077083632389541944",
+        "created_at": "2026-07-15T07:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077289454696546749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "930395936290881536",
+              "start": 0,
+              "username": "MarSnChen1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077289454696546749",
+        "in_reply_to_user_id": "930395936290881536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077285233704247636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MarSnChen1 好嘞！谢谢(^^)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "930395936290881536",
+        "conversation_id": "2077083632389541944",
+        "created_at": "2026-07-15T06:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077285233704247636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077285233704247636",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077083632389541944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 肝损伤不大，肾确实有损伤，可以买肾宝片，补肾效果很好，我一般o完或者o之前会吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 121,
+          "like_count": 1605,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 357
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-14T11:24:11.000Z",
+        "description": "",
+        "id": "930395936290881536",
+        "name": "梧桐树镌刻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073191340155002880/J32PeUGr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 128,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "MarSnChen1",
+        "verified": false
+      }
+    ]
+  }
+}

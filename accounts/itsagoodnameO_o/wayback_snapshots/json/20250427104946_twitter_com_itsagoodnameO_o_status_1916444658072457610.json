@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1916134484757647361"
+      ],
+      "media_source_tweet_id": [
+        "1916134493695455605"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "conversation_id": "1916444658072457610",
+    "created_at": "2025-04-27T10:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T11:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916444658072457610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1746760123341799424",
+          "start": 3,
+          "username": "K1ZUDARAKE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CLNI4HsnGf",
+          "end": 43,
+          "expanded_url": "https://x.com/K1ZUDARAKE/status/1916134493695455605/photo/1",
+          "media_key": "3_1916134484757647361",
+          "start": 20,
+          "url": "https://t.co/CLNI4HsnGf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916444658072457610",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916134493695455605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @K1ZUDARAKE: 재밌당 https://t.co/CLNI4HsnGf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1916134484757647361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpd6KWnbEAEdPU2.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916134484757647361"
+          ],
+          "media_source_tweet_id": [
+            "1916134493695455605"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "conversation_id": "1916444658072457610",
+        "created_at": "2025-04-27T10:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T11:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916444658072457610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1746760123341799424",
+              "start": 3,
+              "username": "K1ZUDARAKE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLNI4HsnGf",
+              "end": 43,
+              "expanded_url": "https://x.com/K1ZUDARAKE/status/1916134493695455605/photo/1",
+              "media_key": "3_1916134484757647361",
+              "start": 20,
+              "url": "https://t.co/CLNI4HsnGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916444658072457610",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916134493695455605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @K1ZUDARAKE: 재밌당 https://t.co/CLNI4HsnGf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916134484757647361"
+          ]
+        },
+        "author_id": "1746760123341799424",
+        "conversation_id": "1916134493695455605",
+        "created_at": "2025-04-26T14:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T15:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916134493695455605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLNI4HsnGf",
+              "end": 27,
+              "expanded_url": "https://x.com/K1ZUDARAKE/status/1916134493695455605/photo/1",
+              "media_key": "3_1916134484757647361",
+              "start": 4,
+              "url": "https://t.co/CLNI4HsnGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916134493695455605",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1858,
+          "like_count": 160,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "재밌당 https://t.co/CLNI4HsnGf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "芹菜。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 44,
+          "like_count": 413,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-15T05:04:08.000Z",
+        "description": "20↑ このアカウントの全ては🧡オカクリ❤️です",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/okakurisuki",
+                "end": 23,
+                "expanded_url": "https://lit.link/okakurisuki",
+                "start": 0,
+                "url": "https://t.co/8UEc9JqiHM"
+              }
+            ]
+          }
+        },
+        "id": "1746760123341799424",
+        "location": "ダイバージンスメーター 1.048596%",
+        "name": "빵건이",
+        "pinned_tweet_id": "1871551204972708276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897321118740176899/qRQ9L4TH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 51,
+          "like_count": 543,
+          "listed_count": 6,
+          "media_count": 1017,
+          "tweet_count": 3105
+        },
+        "url": "https://t.co/8UEc9JqiHM",
+        "username": "K1ZUDARAKE",
+        "verified": false
+      }
+    ]
+  }
+}

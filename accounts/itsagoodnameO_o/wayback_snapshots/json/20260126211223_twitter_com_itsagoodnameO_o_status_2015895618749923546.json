@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2015895618749923546",
+    "created_at": "2026-01-26T21:12:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T22:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015895618749923546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "958562247831367680",
+          "start": 3,
+          "username": "Bitturing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015895618749923546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 381
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015609395305148656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bitturing: 药品成分及用途一览\n\n对乙酰氨基酚（Paracetamol） → 止痛、退烧\n阿莫西林（Amoxicillin） → 细菌感染\n奥美拉唑（Omeprazole） → 胃酸反流、胃溃疡\n氯雷他定（Loratadine） → 过敏\n氨氯地平（Amlod…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 566,
+        "media_key": "3_2015609386132213760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_jiDrpakAAVI5U.png",
+        "width": 662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2015895618749923546",
+        "created_at": "2026-01-26T21:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T22:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015895618749923546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "958562247831367680",
+              "start": 3,
+              "username": "Bitturing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015895618749923546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 381
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015609395305148656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bitturing: 药品成分及用途一览\n\n对乙酰氨基酚（Paracetamol） → 止痛、退烧\n阿莫西林（Amoxicillin） → 细菌感染\n奥美拉唑（Omeprazole） → 胃酸反流、胃溃疡\n氯雷他定（Loratadine） → 过敏\n氨氯地平（Amlod…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015609386132213760"
+          ]
+        },
+        "author_id": "958562247831367680",
+        "conversation_id": "2015609395305148656",
+        "created_at": "2026-01-26T02:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T03:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015609395305148656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oXQR27aR7Y",
+              "end": 208,
+              "expanded_url": "https://x.com/Bitturing/status/2015609395305148656/photo/1",
+              "media_key": "3_2015609386132213760",
+              "start": 185,
+              "url": "https://t.co/oXQR27aR7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015609395305148656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "药品成分及用途一览\n\n对乙酰氨基酚（Paracetamol） → 止痛、退烧\n阿莫西林（Amoxicillin） → 细菌感染\n奥美拉唑（Omeprazole） → 胃酸反流、胃溃疡\n氯雷他定（Loratadine） → 过敏\n氨氯地平（Amlodipine） → 高血压\n二甲双胍（Metformin） → 2 型糖尿病\n\n地西泮（Diazepam） → 焦虑、失眠\n阿托伐他汀（Atorvastatin） → 高胆固醇\n环丙沙星（Ciprofloxacin） → 尿路感染\n雷尼替丁（Ranitidine） → 胃溃疡、胃炎\n布洛芬（Ibuprofen） → 止痛、抗炎\n\n左甲状腺素（Levothyroxine） → 甲状腺功能减退\n氯吡格雷（Clopidogrel） → 抗凝血（预防血栓）\n沙丁胺醇（Albuterol） → 哮喘、慢阻肺\n氟西汀（Fluoxetine） → 抑郁症\n氯沙坦（Losartan） → 高血压\n\n多西环素（Doxycycline） → 细菌感染\n胰岛素（Insulin） → 糖尿病\n曲马多（Tramadol） → 中至重度疼痛\n泮托拉唑（Pantoprazole） → 胃食管反流、胃酸过多\n西替利嗪（Cetirizine） → 过敏性鼻炎\n\n华法林（Warfarin） → 抗凝血\n吗啡（Morphine） → 重度疼痛\n艾司西酞普兰（Escitalopram） → 抑郁症、焦虑障碍\n呋塞米（Furosemide） → 水肿、高血压\n阿奇霉素（Azithromycin） → 呼吸道感染\n泼尼松龙（Prednisolone） → 炎症、重度过敏\n\n加巴喷丁（Gabapentin） → 神经性疼痛\n多潘立酮（Domperidone） → 恶心、呕吐\n比索洛尔（Bisoprolol） → 心力衰竭\n孟鲁司特（Montelukast） → 哮喘、过敏\n地高辛（Digoxin） → 心律失常\n舍曲林（Sertraline） → 抑郁症\n甲硝唑（Metronidazole） → 某些寄生虫及细菌感染\n\n依那普利（Enalapril） → 高血压\n劳拉西泮（Lorazepam） → 焦虑、镇静\n瑞舒伐他汀（Rosuvastatin） → 高胆固醇\n沙丁胺醇（Salbutamol） → 气喘、哮喘\n别嘌醇（Allopurinol） → 高尿酸 / 痛风\n氯硝西泮（Clonazepam） → 癫痫（惊厥）\n坦索罗辛（Tamsulosin） → 良性前列腺增生\n\n法莫替丁（Famotidine） → 胃酸过多\n甲氨蝶呤（Methotrexate） → 类风湿性关节炎\n氢氯噻嗪（Hydrochlorothiazide） → 利尿剂、高血压\n西地那非（Sildenafil） → 勃起功能障碍\n\n左乙拉西坦（Levetiracetam） → 癫痫\n倍他米松（Betamethasone） → 皮肤炎症、皮肤过敏\n雷米普利（Ramipril） → 高血压\n米氮平（Mirtazapine） → 抑郁症\n阿司匹林（Aspirin） → 止痛、预防血栓\n\n⚠️ 重要提示：\n服用任何药物前，请务必咨询医生或药师。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 889,
+          "impression_count": 125938,
+          "like_count": 1165,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 381
+        },
+        "reply_settings": "everyone",
+        "text": "药品成分及用途一览\n\n对乙酰氨基酚（Paracetamol） → 止痛、退烧\n阿莫西林（Amoxicillin） → 细菌感染\n奥美拉唑（Omeprazole） → 胃酸反流、胃溃疡\n氯雷他定（Loratadine） → 过敏\n氨氯地平（Amlodipine） → 高血压\n二甲双胍（Metformin） → 2 型糖尿病\n\n地西泮（Diazepam） → 焦虑、失眠 https://t.co/oXQR27aR7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 80,
+          "like_count": 1280,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 104
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-31T04:47:03.000Z",
+        "description": "🗺️大自然的搬运工 \n\n🕸️泛互联网 \n🔭科技 \n🤖AI \n📖学习 \n🪙Crypto #BTC \n💎投资 \n🪐Web3 \n\n🌍看都看了，点点关注",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 47,
+                "start": 43,
+                "tag": "BTC"
+              }
+            ]
+          }
+        },
+        "id": "958562247831367680",
+        "name": "Bitturing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640782991457931264/NiQ4O-sX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104582,
+          "following_count": 200,
+          "like_count": 17967,
+          "listed_count": 854,
+          "media_count": 3913,
+          "tweet_count": 5643
+        },
+        "username": "Bitturing",
+        "verified": true
+      }
+    ]
+  }
+}

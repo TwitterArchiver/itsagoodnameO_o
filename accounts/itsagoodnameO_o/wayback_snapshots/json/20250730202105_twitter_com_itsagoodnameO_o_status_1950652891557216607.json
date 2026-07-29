@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950525491003154432"
+      ],
+      "media_source_tweet_id": [
+        "1950525493830136221"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "conversation_id": "1950652891557216607",
+    "created_at": "2025-07-30T20:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T21:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950652891557216607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2828212668",
+          "start": 3,
+          "username": "AMAZlNGNATURE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lQkap6s9EI",
+          "end": 81,
+          "expanded_url": "https://x.com/AMAZlNGNATURE/status/1950525493830136221/photo/1",
+          "media_key": "3_1950525491003154432",
+          "start": 58,
+          "url": "https://t.co/lQkap6s9EI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950652891557216607",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2284
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950525493830136221",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AMAZlNGNATURE: absolutely losing it over this picture https://t.co/lQkap6s9EI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_1950525491003154432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxGomYiWYAApy8S.jpg",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950525491003154432"
+          ],
+          "media_source_tweet_id": [
+            "1950525493830136221"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "conversation_id": "1950652891557216607",
+        "created_at": "2025-07-30T20:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T21:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950652891557216607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2828212668",
+              "start": 3,
+              "username": "AMAZlNGNATURE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQkap6s9EI",
+              "end": 81,
+              "expanded_url": "https://x.com/AMAZlNGNATURE/status/1950525493830136221/photo/1",
+              "media_key": "3_1950525491003154432",
+              "start": 58,
+              "url": "https://t.co/lQkap6s9EI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950652891557216607",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2284
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950525493830136221",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AMAZlNGNATURE: absolutely losing it over this picture https://t.co/lQkap6s9EI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950525491003154432"
+          ]
+        },
+        "author_id": "2828212668",
+        "conversation_id": "1950525493830136221",
+        "created_at": "2025-07-30T11:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T12:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950525493830136221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQkap6s9EI",
+              "end": 62,
+              "expanded_url": "https://x.com/AMAZlNGNATURE/status/1950525493830136221/photo/1",
+              "media_key": "3_1950525491003154432",
+              "start": 39,
+              "url": "https://t.co/lQkap6s9EI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950525493830136221",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3402,
+          "impression_count": 1762940,
+          "like_count": 43778,
+          "quote_count": 346,
+          "reply_count": 954,
+          "retweet_count": 2284
+        },
+        "reply_settings": "everyone",
+        "text": "absolutely losing it over this picture https://t.co/lQkap6s9EI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "我操坏事都是美国干的我恨你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 55,
+          "like_count": 614,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 51
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-23T15:27:26.000Z",
+        "description": "Animals 🐿️ Nature 🦋 Discovery 🦖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/amazlng.nature",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/amazlng.nature",
+                "start": 0,
+                "url": "https://t.co/eLQP37nHde"
+              }
+            ]
+          }
+        },
+        "id": "2828212668",
+        "location": "🌍",
+        "name": "Nature is Amazing ☘️",
+        "pinned_tweet_id": "1917939518000210352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5987263,
+          "following_count": 48,
+          "like_count": 1370,
+          "listed_count": 11304,
+          "media_count": 21383,
+          "tweet_count": 22957
+        },
+        "url": "https://t.co/eLQP37nHde",
+        "username": "AMAZlNGNATURE",
+        "verified": true
+      }
+    ]
+  }
+}

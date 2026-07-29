@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2072302283229188183",
+    "created_at": "2026-07-01T15:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072340837737115718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1865480322978349056",
+          "start": 0,
+          "username": "CharaG51669"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072340837737115718",
+    "in_reply_to_user_id": "1865480322978349056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072302283229188183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CharaG51669 剧烈升天"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072302280238653440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJL8cDbYAA2JSn.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072302280402178048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJL8cqakAAReuX.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2072302283229188183",
+        "created_at": "2026-07-01T15:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072340837737115718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1865480322978349056",
+              "start": 0,
+              "username": "CharaG51669"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072340837737115718",
+        "in_reply_to_user_id": "1865480322978349056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072302283229188183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CharaG51669 剧烈升天"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072302280238653440",
+            "3_2072302280402178048"
+          ]
+        },
+        "author_id": "1865480322978349056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072302283229188183",
+        "created_at": "2026-07-01T12:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072302283229188183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FYlDGT20iu",
+              "end": 79,
+              "expanded_url": "https://x.com/CharaG51669/status/2072302283229188183/photo/1",
+              "media_key": "3_2072302280238653440",
+              "start": 56,
+              "url": "https://t.co/FYlDGT20iu"
+            },
+            {
+              "display_url": "pic.x.com/FYlDGT20iu",
+              "end": 79,
+              "expanded_url": "https://x.com/CharaG51669/status/2072302283229188183/photo/1",
+              "media_key": "3_2072302280402178048",
+              "start": 56,
+              "url": "https://t.co/FYlDGT20iu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072302283229188183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 529,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中午o的600mg普瑞一点药效都没有，我刚刚又o了36t愈美和两板加巴喷丁。。\n要是把剩下的药都o了我能升天吗 https://t.co/FYlDGT20iu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071229889160880128/puKik6XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 91,
+          "like_count": 1537,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T19:36:09.000Z",
+        "description": "06/INFP/抑郁/焦虑 /有老公/od/割手/抽烟/互fo请私信💖/欢迎私信/叫我小侑就好/现居深圳，欢迎小萌物们找我玩！\n提问箱：https://t.co/2km1uF0lIH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/onoderayuu",
+                "end": 91,
+                "expanded_url": "https://ngl.link/onoderayuu",
+                "start": 68,
+                "url": "https://t.co/2km1uF0lIH"
+              }
+            ]
+          }
+        },
+        "id": "1865480322978349056",
+        "name": "OnoderaYuu（侑）",
+        "pinned_tweet_id": "2070781014423769469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865662167120564224/GiHXnwwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 216,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 554
+        },
+        "url": "",
+        "username": "CharaG51669",
+        "verified": false
+      }
+    ]
+  }
+}

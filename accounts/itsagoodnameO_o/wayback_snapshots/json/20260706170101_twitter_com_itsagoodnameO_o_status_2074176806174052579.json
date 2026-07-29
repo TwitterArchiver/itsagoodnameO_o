@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074176793343647744",
+        "3_2074176793318404097"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074176806174052579",
+    "created_at": "2026-07-06T17:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T18:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074176806174052579"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KZ0cGbb8LS",
+          "end": 39,
+          "expanded_url": "https://x.com/itsagoodnameO_o/status/2074176806174052579/photo/1",
+          "media_key": "3_2074176793343647744",
+          "start": 16,
+          "url": "https://t.co/KZ0cGbb8LS"
+        },
+        {
+          "display_url": "pic.x.com/KZ0cGbb8LS",
+          "end": 39,
+          "expanded_url": "https://x.com/itsagoodnameO_o/status/2074176806174052579/photo/1",
+          "media_key": "3_2074176793318404097",
+          "start": 16,
+          "url": "https://t.co/KZ0cGbb8LS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074176806174052579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我和一个女孩玩了好开心的一天。 https://t.co/KZ0cGbb8LS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074176793343647744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMj0zdibYAA7C2F.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074176793318404097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMj0zdcaMAE4qHM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074176793343647744",
+            "3_2074176793318404097"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074176806174052579",
+        "created_at": "2026-07-06T17:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074176806174052579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZ0cGbb8LS",
+              "end": 39,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2074176806174052579/photo/1",
+              "media_key": "3_2074176793343647744",
+              "start": 16,
+              "url": "https://t.co/KZ0cGbb8LS"
+            },
+            {
+              "display_url": "pic.x.com/KZ0cGbb8LS",
+              "end": 39,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2074176806174052579/photo/1",
+              "media_key": "3_2074176793318404097",
+              "start": 16,
+              "url": "https://t.co/KZ0cGbb8LS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074176806174052579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和一个女孩玩了好开心的一天。 https://t.co/KZ0cGbb8LS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 114,
+          "like_count": 1569,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

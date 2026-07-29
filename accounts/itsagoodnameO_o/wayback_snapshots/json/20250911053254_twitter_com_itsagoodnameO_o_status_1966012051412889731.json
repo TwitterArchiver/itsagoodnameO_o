@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "1965416809466937433",
+    "created_at": "2025-09-11T05:32:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T06:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966012051412889731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1660253397172490244",
+          "start": 0,
+          "username": "igotpsycho"
+        },
+        {
+          "end": 25,
+          "id": "1963867793776070656",
+          "start": 12,
+          "username": "drug_artist1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966012051412889731",
+    "in_reply_to_user_id": "1660253397172490244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965643421726679193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igotpsycho @drug_artist1 我靠我還以為是我的問題。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "1965416809466937433",
+        "created_at": "2025-09-11T05:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T06:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966012051412889731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1660253397172490244",
+              "start": 0,
+              "username": "igotpsycho"
+            },
+            {
+              "end": 25,
+              "id": "1963867793776070656",
+              "start": 12,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966012051412889731",
+        "in_reply_to_user_id": "1660253397172490244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965643421726679193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igotpsycho @drug_artist1 我靠我還以為是我的問題。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660253397172490244",
+        "conversation_id": "1965416809466937433",
+        "created_at": "2025-09-10T05:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T06:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965643421726679193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963867793776070656",
+              "start": 0,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965643421726679193",
+        "in_reply_to_user_id": "1963867793776070656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965416809466937433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist1 吃完这玩意鼻塞得想死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "我操坏事都是美国干的我恨你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 63,
+          "like_count": 860,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 77
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T11:57:19.000Z",
+        "description": "暂时不做药代了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sertraline6",
+                "end": 23,
+                "expanded_url": "http://t.me/sertraline6",
+                "start": 0,
+                "url": "https://t.co/FWlSjbjUY8"
+              }
+            ]
+          }
+        },
+        "id": "1660253397172490244",
+        "location": "哦对了，我也约炮，坐标长沙",
+        "name": "21世纪精神病人主治医生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947064021523251202/3-rIQgEo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 529,
+          "like_count": 77,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 351
+        },
+        "url": "https://t.co/FWlSjbjUY8",
+        "username": "igotpsycho",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主（秽土转生版）\n投稿请私信我\n愿每一位药物滥用者都能脱离深渊\n提供药物咨询\nim crazy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRToqxO"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨（秽土转生）",
+        "pinned_tweet_id": "1964645990381887964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963871523082735616/Bl-ILJS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 34,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/N4ZvRToqxO",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

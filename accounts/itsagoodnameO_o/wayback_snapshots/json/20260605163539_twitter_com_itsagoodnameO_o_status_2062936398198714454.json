@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2062936398198714454",
+    "created_at": "2026-06-05T16:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062936398198714454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1957509667787325440",
+          "start": 3,
+          "username": "_yuki_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062936398198714454",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062860201192276435",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_yuki_owo: 准备戒毒了 我累了 濒死走马灯了两次了 家里人还威胁我准备报警 不想搞心态了 抽人送之前在花导那里买的4t雪尘+烟火电子烟 转发关注评论我回头明天找grok开奖 要是我忘了可以私我 精神状态成谜上线很随机 明天晚上六点截止 我设了个闹钟不会忘的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2062936398198714454",
+        "created_at": "2026-06-05T16:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062936398198714454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1957509667787325440",
+              "start": 3,
+              "username": "_yuki_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062936398198714454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062860201192276435",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_yuki_owo: 准备戒毒了 我累了 濒死走马灯了两次了 家里人还威胁我准备报警 不想搞心态了 抽人送之前在花导那里买的4t雪尘+烟火电子烟 转发关注评论我回头明天找grok开奖 要是我忘了可以私我 精神状态成谜上线很随机 明天晚上六点截止 我设了个闹钟不会忘的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957509667787325440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2062860201192276435",
+        "created_at": "2026-06-05T11:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062860201192276435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062860201192276435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1811,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "准备戒毒了 我累了 濒死走马灯了两次了 家里人还威胁我准备报警 不想搞心态了 抽人送之前在花导那里买的4t雪尘+烟火电子烟 转发关注评论我回头明天找grok开奖 要是我忘了可以私我 精神状态成谜上线很随机 明天晚上六点截止 我设了个闹钟不会忘的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 83,
+          "like_count": 1495,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 181
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-18T18:27:41.000Z",
+        "description": "",
+        "id": "1957509667787325440",
+        "location": "自由",
+        "name": "下水道",
+        "pinned_tweet_id": "2062154670840349136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060679419988148224/Zh_vTvc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 693,
+          "like_count": 3542,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1700
+        },
+        "username": "_yuki_owo",
+        "verified": false
+      }
+    ]
+  }
+}

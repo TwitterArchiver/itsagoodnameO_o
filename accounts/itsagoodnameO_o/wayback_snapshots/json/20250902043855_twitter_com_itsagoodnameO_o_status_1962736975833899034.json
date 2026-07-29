@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962530122076217344"
+      ],
+      "media_source_tweet_id": [
+        "1962530125389721609"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "conversation_id": "1962736975833899034",
+    "created_at": "2025-09-02T04:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T05:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962736975833899034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1637962195685474304",
+          "start": 3,
+          "username": "amu_x__xo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iTtB6MLBKE",
+          "end": 47,
+          "expanded_url": "https://x.com/amu_x__xo/status/1962530125389721609/photo/1",
+          "media_key": "3_1962530122076217344",
+          "start": 24,
+          "url": "https://t.co/iTtB6MLBKE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962736975833899034",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962530125389721609",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amu_x__xo: やっと治ってきた https://t.co/iTtB6MLBKE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1962530122076217344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxOv4NbYAARMrV.jpg",
+        "width": 1081
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962530122076217344"
+          ],
+          "media_source_tweet_id": [
+            "1962530125389721609"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "conversation_id": "1962736975833899034",
+        "created_at": "2025-09-02T04:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T05:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962736975833899034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1637962195685474304",
+              "start": 3,
+              "username": "amu_x__xo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iTtB6MLBKE",
+              "end": 47,
+              "expanded_url": "https://x.com/amu_x__xo/status/1962530125389721609/photo/1",
+              "media_key": "3_1962530122076217344",
+              "start": 24,
+              "url": "https://t.co/iTtB6MLBKE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962736975833899034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962530125389721609",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amu_x__xo: やっと治ってきた https://t.co/iTtB6MLBKE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962530122076217344"
+          ]
+        },
+        "author_id": "1637962195685474304",
+        "conversation_id": "1962530125389721609",
+        "created_at": "2025-09-01T14:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T15:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962530125389721609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iTtB6MLBKE",
+              "end": 32,
+              "expanded_url": "https://x.com/amu_x__xo/status/1962530125389721609/photo/1",
+              "media_key": "3_1962530122076217344",
+              "start": 9,
+              "url": "https://t.co/iTtB6MLBKE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962530125389721609",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1177,
+          "like_count": 199,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "やっと治ってきた https://t.co/iTtB6MLBKE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "我操坏事都是美国干的我恨你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 62,
+          "like_count": 818,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 65
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T23:41:04.000Z",
+        "description": "08┊︎全日jk┊︎自傷┊︎希死念慮┆🗝@amu__xo0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "amu__xo0"
+              }
+            ]
+          }
+        },
+        "id": "1637962195685474304",
+        "name": "ｱﾑ",
+        "pinned_tweet_id": "1951948709907800260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637962686087720960/nn685Ah2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 387,
+          "like_count": 12551,
+          "listed_count": 15,
+          "media_count": 99,
+          "tweet_count": 3603
+        },
+        "username": "amu_x__xo",
+        "verified": false
+      }
+    ]
+  }
+}

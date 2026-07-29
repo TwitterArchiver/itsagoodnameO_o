@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2075608676505977148",
+    "created_at": "2026-07-11T06:22:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T07:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075828169429684639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1634944403872833536",
+          "start": 0,
+          "username": "wmy072011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075828169429684639",
+    "in_reply_to_user_id": "1634944403872833536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075608676505977148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wmy072011 特别萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15116,
+        "height": 1280,
+        "media_key": "7_2075608527268438016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2075608527268438016/pu/img/L4n_AP2-x4moF7CH.jpg",
+        "public_metrics": {
+          "view_count": 293
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075608527268438016/pu/vid/avc1/320x568/EiQ24l-pSHjbkptI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075608527268438016/pu/vid/avc1/480x852/edFYOzscTk6L9rGM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2075608527268438016/pu/vid/avc1/720x1280/rIwTAqdlsxxSyt-T.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2075608527268438016/pu/pl/OIGLwE1hCWFsOvem.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2075608676505977148",
+        "created_at": "2026-07-11T06:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075828169429684639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1634944403872833536",
+              "start": 0,
+              "username": "wmy072011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075828169429684639",
+        "in_reply_to_user_id": "1634944403872833536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075608676505977148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wmy072011 特别萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2075608527268438016"
+          ]
+        },
+        "author_id": "1634944403872833536",
+        "conversation_id": "2075608676505977148",
+        "created_at": "2026-07-10T15:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075608676505977148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2akxDwlHvr",
+              "end": 32,
+              "expanded_url": "https://x.com/wmy072011/status/2075608676505977148/video/1",
+              "media_key": "7_2075608527268438016",
+              "start": 9,
+              "url": "https://t.co/2akxDwlHvr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075608676505977148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1049,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "三星原相机好奇怪 https://t.co/2akxDwlHvr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 115,
+          "like_count": 1576,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 315
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T15:48:24.000Z",
+        "description": "希望明天过得顺利",
+        "id": "1634944403872833536",
+        "name": "十二点",
+        "pinned_tweet_id": "2034682318695407936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808798311559929856/zxLxGTxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1893,
+          "following_count": 475,
+          "like_count": 57274,
+          "listed_count": 0,
+          "media_count": 1757,
+          "tweet_count": 17000
+        },
+        "url": "",
+        "username": "wmy072011",
+        "verified": false
+      }
+    ]
+  }
+}

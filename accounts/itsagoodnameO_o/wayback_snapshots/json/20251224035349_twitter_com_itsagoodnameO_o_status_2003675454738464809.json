@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2003426144763441370",
+    "created_at": "2025-12-24T03:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T04:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003675454738464809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1856083207151857668",
+          "start": 0,
+          "username": "ynthien8885"
+        },
+        {
+          "end": 26,
+          "id": "1639828777370030080",
+          "start": 13,
+          "username": "benghuaixing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003675454738464809",
+    "in_reply_to_user_id": "1856083207151857668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003509064563908694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ynthien8885 @benghuaixing 好像我也學過這篇，不過我是在高中的時候學的也沒想到這層意思啊hhh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2003426144763441370",
+        "created_at": "2025-12-24T03:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T04:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003675454738464809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1856083207151857668",
+              "start": 0,
+              "username": "ynthien8885"
+            },
+            {
+              "end": 26,
+              "id": "1639828777370030080",
+              "start": 13,
+              "username": "benghuaixing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003675454738464809",
+        "in_reply_to_user_id": "1856083207151857668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003509064563908694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ynthien8885 @benghuaixing 好像我也學過這篇，不過我是在高中的時候學的也沒想到這層意思啊hhh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856083207151857668",
+        "conversation_id": "2003426144763441370",
+        "created_at": "2025-12-23T16:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T17:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003509064563908694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639828777370030080",
+              "start": 0,
+              "username": "benghuaixing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003509064563908694",
+        "in_reply_to_user_id": "1639828777370030080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2402,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003507033048551672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@benghuaixing 一篇记叙文：讲主人公小时候在农村大家都很和善，人和人距离很近。但是长大到了大城市之后，觉得大家关系都很冷漠，互相都很独立，关系疏远。所以他感叹“人心不古”，很怀念以前虽然物质不富足但是精神很快乐的日子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 80,
+          "like_count": 1172,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 96
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T21:15:47.000Z",
+        "description": "23y |entp |Furry |🗣CN Eng |SFW清水\n可以叫我云天，是一只东方龙龙🐉。坐标上海。希望在这里交到更多的朋友。\n喜欢文学、音乐、运动、旅游、数码、摄影、轨交uwu。\n\n喜欢流云和天空，象征着一切的美好。喜欢生命和太阳，象征着一切的力量。永远相信未来和希望。",
+        "id": "1856083207151857668",
+        "location": "宛平南路600号",
+        "name": "𝒚𝒏𝒕𝒉𝒊𝒆𝒏云天",
+        "pinned_tweet_id": "1866965594693828919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003495941425496070/mdrYBO1M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 588,
+          "like_count": 8430,
+          "listed_count": 2,
+          "media_count": 323,
+          "tweet_count": 4873
+        },
+        "username": "ynthien8885",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T03:17:13.000Z",
+        "description": "170/0.5/infp\n修猫性格男高\n羽毛球重度依赖\n智性现充（？",
+        "id": "1639828777370030080",
+        "name": "经樾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937535862532898825/yqQMVqOb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 589,
+          "like_count": 645,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 175
+        },
+        "username": "benghuaixing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962469411241201664"
+      ],
+      "media_source_tweet_id": [
+        "1962469414231802116"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "conversation_id": "1962737260690059285",
+    "created_at": "2025-09-02T04:40:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T05:40:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962737260690059285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939178834752131072",
+          "start": 3,
+          "username": "NISHI_Illust"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bRuJKAiTbL",
+          "end": 41,
+          "expanded_url": "https://x.com/NISHI_Illust/status/1962469414231802116/photo/1",
+          "media_key": "3_1962469411241201664",
+          "start": 18,
+          "url": "https://t.co/bRuJKAiTbL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962737260690059285",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962469414231802116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NISHI_Illust: https://t.co/bRuJKAiTbL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962469411241201664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzwXiCuaEAAhq3y.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962469411241201664"
+          ],
+          "media_source_tweet_id": [
+            "1962469414231802116"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "conversation_id": "1962737260690059285",
+        "created_at": "2025-09-02T04:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T05:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962737260690059285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939178834752131072",
+              "start": 3,
+              "username": "NISHI_Illust"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRuJKAiTbL",
+              "end": 41,
+              "expanded_url": "https://x.com/NISHI_Illust/status/1962469414231802116/photo/1",
+              "media_key": "3_1962469411241201664",
+              "start": 18,
+              "url": "https://t.co/bRuJKAiTbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962737260690059285",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962469414231802116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NISHI_Illust: https://t.co/bRuJKAiTbL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962469411241201664"
+          ]
+        },
+        "author_id": "1939178834752131072",
+        "conversation_id": "1962469414231802116",
+        "created_at": "2025-09-01T10:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962469414231802116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bRuJKAiTbL",
+              "end": 23,
+              "expanded_url": "https://x.com/NISHI_Illust/status/1962469414231802116/photo/1",
+              "media_key": "3_1962469411241201664",
+              "start": 0,
+              "url": "https://t.co/bRuJKAiTbL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962469414231802116",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 5837,
+          "like_count": 736,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bRuJKAiTbL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "我操坏事都是美国干的我恨你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 62,
+          "like_count": 822,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 67
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T04:27:41.000Z",
+        "description": "病み絵/依頼受け付けてます→DM　１件お受けちゅう/リットリンクにて詳細記入/ FA #おちのおくすり /",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "おちのおくすり"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/otituitene",
+                "end": 23,
+                "expanded_url": "https://lit.link/otituitene",
+                "start": 0,
+                "url": "https://t.co/FTkjWLy84E"
+              }
+            ]
+          }
+        },
+        "id": "1939178834752131072",
+        "name": "落ち着いてね",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949387565569892352/9_A_KFvh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 62,
+          "like_count": 3328,
+          "listed_count": 4,
+          "media_count": 61,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/FTkjWLy84E",
+        "username": "NISHI_Illust",
+        "verified": false
+      }
+    ]
+  }
+}

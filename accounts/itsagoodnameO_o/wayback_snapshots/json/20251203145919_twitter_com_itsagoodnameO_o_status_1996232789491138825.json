@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "1996232789491138825",
+    "created_at": "2025-12-03T14:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T15:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996232789491138825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1708457167072985091",
+          "start": 3,
+          "username": "askeunchi_7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996232789491138825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996059804100690028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @askeunchi_7777: 门槛对于富哥来说就是一个门而已 对于穷哥们那真是一个坎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "1996232789491138825",
+        "created_at": "2025-12-03T14:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996232789491138825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1708457167072985091",
+              "start": 3,
+              "username": "askeunchi_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996232789491138825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996059804100690028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @askeunchi_7777: 门槛对于富哥来说就是一个门而已 对于穷哥们那真是一个坎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708457167072985091",
+        "conversation_id": "1996059804100690028",
+        "created_at": "2025-12-03T03:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T04:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996059804100690028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996059804100690028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 257681,
+          "like_count": 1080,
+          "quote_count": 18,
+          "reply_count": 354,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "门槛对于富哥来说就是一个门而已 对于穷哥们那真是一个坎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 77,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 85
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T12:22:06.000Z",
+        "description": "INFP 天蝎 骚扰私信不回",
+        "id": "1708457167072985091",
+        "location": "有🚪",
+        "name": "池7777",
+        "pinned_tweet_id": "1996117341013479712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930249390738026498/_IVpjWrV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3321,
+          "following_count": 664,
+          "like_count": 14089,
+          "listed_count": 9,
+          "media_count": 926,
+          "tweet_count": 8302
+        },
+        "username": "askeunchi_7777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2078855478847979759",
+    "created_at": "2026-07-19T16:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078873854332776901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1289715612978044928",
+          "start": 0,
+          "username": "77srl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078873854332776901",
+    "in_reply_to_user_id": "1289715612978044928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078869121056526508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77srl 好呀你在哪里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2078855478847979759",
+        "created_at": "2026-07-19T16:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078873854332776901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1289715612978044928",
+              "start": 0,
+              "username": "77srl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078873854332776901",
+        "in_reply_to_user_id": "1289715612978044928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078869121056526508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77srl 好呀你在哪里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289715612978044928",
+        "conversation_id": "2078855478847979759",
+        "created_at": "2026-07-19T15:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078869121056526508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078869121056526508",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078855478847979759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 131,
+          "like_count": 1701,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 411
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-02T00:12:26.000Z",
+        "description": "死在回忆里",
+        "id": "1289715612978044928",
+        "location": "Hong Kong",
+        "name": "堇z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793379496177135619/kdn7TJf8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 67,
+          "like_count": 4537,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 549
+        },
+        "url": "",
+        "username": "77srl",
+        "verified": false
+      }
+    ]
+  }
+}

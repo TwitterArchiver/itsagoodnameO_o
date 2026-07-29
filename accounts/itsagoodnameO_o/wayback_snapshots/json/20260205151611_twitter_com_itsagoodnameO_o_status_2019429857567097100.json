@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2019429857567097100",
+    "created_at": "2026-02-05T15:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T16:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019429857567097100"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019429857567097100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我剛剛才買了本所七大不可思議，結果發現出了續作，我還沒有玩，打算坐高鐵回老家的時候人多一點再玩，好幸福呀哈哈。剛買完遊戲就發現續作要出了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2019429857567097100",
+        "created_at": "2026-02-05T15:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T16:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019429857567097100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019429857567097100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我剛剛才買了本所七大不可思議，結果發現出了續作，我還沒有玩，打算坐高鐵回老家的時候人多一點再玩，好幸福呀哈哈。剛買完遊戲就發現續作要出了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 81,
+          "like_count": 1345,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 139
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

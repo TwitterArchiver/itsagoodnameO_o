@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2080364791361884534",
+    "created_at": "2026-07-24T17:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080700213212397783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1901639919308820480",
+          "start": 0,
+          "username": "Miyuki__ii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080700213212397783",
+    "in_reply_to_user_id": "1901639919308820480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080364791361884534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyuki__ii 好萌好萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5033,
+        "height": 1280,
+        "media_key": "13_2080364733287550976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080364733287550976/img/COW1WlXs_11l3cYL.jpg",
+        "public_metrics": {
+          "view_count": 159
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080364733287550976/vid/avc1/320x568/w6gElqHvIg0C9Z-P.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080364733287550976/vid/avc1/480x852/Hcgerx9hcVBBv9ai.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080364733287550976/vid/avc1/720x1280/chsiMG71HoA0w_FO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080364733287550976/pl/Ij7ibV9f0LYcMClJ.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 14513,
+        "height": 1280,
+        "media_key": "13_2080364733253955584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080364733253955584/img/sGSTqU7VFN-ABAEE.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080364733253955584/vid/avc1/320x690/fGOz5hWm54iSYZ3g.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080364733253955584/vid/avc1/480x1036/W5cSaxkI_ngEZ_wv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080364733253955584/vid/avc1/592x1280/3kIcQvO_-yOIdMiY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080364733253955584/pl/RsxkdAfNvqm4jDRy.m3u8"
+          }
+        ],
+        "width": 592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2080364791361884534",
+        "created_at": "2026-07-24T17:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080700213212397783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1901639919308820480",
+              "start": 0,
+              "username": "Miyuki__ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080700213212397783",
+        "in_reply_to_user_id": "1901639919308820480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080364791361884534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyuki__ii 好萌好萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080364733287550976",
+            "13_2080364733253955584"
+          ]
+        },
+        "author_id": "1901639919308820480",
+        "conversation_id": "2080364791361884534",
+        "created_at": "2026-07-23T18:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080364791361884534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EUCXvdbVKw",
+              "end": 31,
+              "expanded_url": "https://x.com/Miyuki__ii/status/2080364791361884534/video/1",
+              "media_key": "13_2080364733287550976",
+              "start": 8,
+              "url": "https://t.co/EUCXvdbVKw"
+            },
+            {
+              "display_url": "pic.x.com/EUCXvdbVKw",
+              "end": 31,
+              "expanded_url": "https://x.com/Miyuki__ii/status/2080364791361884534/video/1",
+              "media_key": "13_2080364733253955584",
+              "start": 8,
+              "url": "https://t.co/EUCXvdbVKw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080364791361884534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 769,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个农村人 https://t.co/EUCXvdbVKw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079572464414445568/oRlzRC9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 130,
+          "like_count": 1889,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 478
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T14:21:44.000Z",
+        "description": "天秤座 istp \n喜欢Metal 啤酒 喜欢看书看电影 \n小号@Rikoar3r（过🚪可解锁\n有🚪 纯绿\n欢迎来提问https://t.co/IqvPpSHH7l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "Rikoar3r"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/miyuki80391",
+                "end": 82,
+                "expanded_url": "https://ngl.link/miyuki80391",
+                "start": 59,
+                "url": "https://t.co/IqvPpSHH7l"
+              }
+            ]
+          }
+        },
+        "id": "1901639919308820480",
+        "location": "猫",
+        "name": "刚塞被屁崩出",
+        "pinned_tweet_id": "1957792894594503012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071512312738205696/KD9-0gyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3081,
+          "following_count": 186,
+          "like_count": 7542,
+          "listed_count": 3,
+          "media_count": 533,
+          "tweet_count": 1525
+        },
+        "url": "",
+        "username": "Miyuki__ii",
+        "verified": false
+      }
+    ]
+  }
+}

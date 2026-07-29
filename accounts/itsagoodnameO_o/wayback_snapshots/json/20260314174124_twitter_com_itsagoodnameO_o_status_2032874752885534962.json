@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2031976484341236098",
+    "created_at": "2026-03-14T17:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T18:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032874752885534962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1763259659690151938",
+          "start": 0,
+          "username": "nan3304"
+        },
+        {
+          "end": 17,
+          "id": "1684934204499402753",
+          "start": 9,
+          "username": "117_pst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032874752885534962",
+    "in_reply_to_user_id": "1763259659690151938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032028089358663893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nan3304 @117_pst 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2031976484341236098",
+        "created_at": "2026-03-14T17:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032874752885534962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1763259659690151938",
+              "start": 0,
+              "username": "nan3304"
+            },
+            {
+              "end": 17,
+              "id": "1684934204499402753",
+              "start": 9,
+              "username": "117_pst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032874752885534962",
+        "in_reply_to_user_id": "1763259659690151938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032028089358663893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nan3304 @117_pst 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763259659690151938",
+        "conversation_id": "2031976484341236098",
+        "created_at": "2026-03-12T09:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032028089358663893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1684934204499402753",
+              "start": 0,
+              "username": "117_pst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032028089358663893",
+        "in_reply_to_user_id": "1684934204499402753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6947,
+          "like_count": 192,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031976484341236098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@117_pst 比如裁缝，电焊。等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 81,
+          "like_count": 1409,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 165
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T17:47:32.000Z",
+        "description": "",
+        "id": "1763259659690151938",
+        "name": "陳靜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958986454182379520/FzIW6hAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "nan3304",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T14:29:54.000Z",
+        "description": "🚪300丨我是一个很故事的人请好好了解我",
+        "id": "1684934204499402753",
+        "name": "PasTTER*",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926208286048522241/p49GoMxT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13898,
+          "following_count": 77,
+          "like_count": 813,
+          "listed_count": 6,
+          "media_count": 365,
+          "tweet_count": 1364
+        },
+        "username": "117_pst",
+        "verified": false
+      }
+    ]
+  }
+}

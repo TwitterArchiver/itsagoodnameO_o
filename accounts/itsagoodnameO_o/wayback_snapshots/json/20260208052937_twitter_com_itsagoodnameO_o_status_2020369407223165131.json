@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2019842941364109563",
+    "created_at": "2026-02-08T05:29:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T06:29:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020369407223165131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3177196842",
+          "start": 0,
+          "username": "tC8VBRSlaNaWIRZ"
+        },
+        {
+          "end": 26,
+          "id": "2012631283898187776",
+          "start": 17,
+          "username": "youy1qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020369407223165131",
+    "in_reply_to_user_id": "3177196842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019892911161344166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tC8VBRSlaNaWIRZ @youy1qwq 我不行了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2019842941364109563",
+        "created_at": "2026-02-08T05:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T06:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020369407223165131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3177196842",
+              "start": 0,
+              "username": "tC8VBRSlaNaWIRZ"
+            },
+            {
+              "end": 26,
+              "id": "2012631283898187776",
+              "start": 17,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020369407223165131",
+        "in_reply_to_user_id": "3177196842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019892911161344166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tC8VBRSlaNaWIRZ @youy1qwq 我不行了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3177196842",
+        "conversation_id": "2019842941364109563",
+        "created_at": "2026-02-06T21:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T22:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019892911161344166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019892911161344166",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 91403,
+          "like_count": 1229,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019842941364109563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 你为什么要日你弟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 81,
+          "like_count": 1366,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 155
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-27T01:27:09.000Z",
+        "description": "蟹になりたい🦀",
+        "id": "3177196842",
+        "location": "Vancouver, British Columbia",
+        "name": "北公爵小三",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/592501171589238784/hgphfiN5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 495,
+          "like_count": 45383,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 9807
+        },
+        "username": "tC8VBRSlaNaWIRZ",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2293,
+          "following_count": 839,
+          "like_count": 1649,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 448
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

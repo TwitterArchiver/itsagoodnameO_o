@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2079941291845271936",
+    "created_at": "2026-07-22T23:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T00:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080076150878113834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1906147263241707520",
+          "start": 0,
+          "username": "Lo_xin_ve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080076150878113834",
+    "in_reply_to_user_id": "1906147263241707520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079986771627069603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lo_xin_ve 宝宝你真好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2079941291845271936",
+        "created_at": "2026-07-22T23:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T00:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080076150878113834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1906147263241707520",
+              "start": 0,
+              "username": "Lo_xin_ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080076150878113834",
+        "in_reply_to_user_id": "1906147263241707520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079986771627069603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lo_xin_ve 宝宝你真好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906147263241707520",
+        "conversation_id": "2079941291845271936",
+        "created_at": "2026-07-22T17:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079986771627069603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079986771627069603",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079941291845271936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 和我聊天和我玩！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079572464414445568/oRlzRC9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 131,
+          "like_count": 1861,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 458
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-30T00:51:45.000Z",
+        "description": "听说那个抑郁症很火我加入了",
+        "id": "1906147263241707520",
+        "name": "無法自愈的傷痛",
+        "pinned_tweet_id": "2075291433385300355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930367494797029376/PgoF2C0z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 42,
+          "like_count": 439,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 269
+        },
+        "url": "",
+        "username": "Lo_xin_ve",
+        "verified": false
+      }
+    ]
+  }
+}

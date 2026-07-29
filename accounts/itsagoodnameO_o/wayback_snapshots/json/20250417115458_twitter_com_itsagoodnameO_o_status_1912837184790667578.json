@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1912246302311608320"
+      ],
+      "media_source_tweet_id": [
+        "1912246331474940337"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "conversation_id": "1912837184790667578",
+    "created_at": "2025-04-17T11:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T12:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912837184790667578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1836069508303216640",
+          "start": 3,
+          "username": "kagamidefense"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/crG8Iq8I5o",
+          "end": 77,
+          "expanded_url": "https://x.com/kagamidefense/status/1912246331474940337/photo/1",
+          "media_key": "16_1912246302311608320",
+          "start": 54,
+          "url": "https://t.co/crG8Iq8I5o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912837184790667578",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2699
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912246331474940337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kagamidefense: my entire house is powered by this https://t.co/crG8Iq8I5o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "16_1912246302311608320",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gomp4WRWcAA1gEt.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gomp4WRWcAA1gEt.mp4"
+          }
+        ],
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1912246302311608320"
+          ],
+          "media_source_tweet_id": [
+            "1912246331474940337"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "conversation_id": "1912837184790667578",
+        "created_at": "2025-04-17T11:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T12:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912837184790667578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1836069508303216640",
+              "start": 3,
+              "username": "kagamidefense"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/crG8Iq8I5o",
+              "end": 77,
+              "expanded_url": "https://x.com/kagamidefense/status/1912246331474940337/photo/1",
+              "media_key": "16_1912246302311608320",
+              "start": 54,
+              "url": "https://t.co/crG8Iq8I5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912837184790667578",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2699
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912246331474940337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kagamidefense: my entire house is powered by this https://t.co/crG8Iq8I5o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1912246302311608320"
+          ]
+        },
+        "author_id": "1836069508303216640",
+        "conversation_id": "1912246331474940337",
+        "created_at": "2025-04-15T20:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T21:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912246331474940337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/crG8Iq8I5o",
+              "end": 58,
+              "expanded_url": "https://x.com/kagamidefense/status/1912246331474940337/photo/1",
+              "media_key": "16_1912246302311608320",
+              "start": 35,
+              "url": "https://t.co/crG8Iq8I5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912246331474940337",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2474,
+          "impression_count": 237398,
+          "like_count": 27184,
+          "quote_count": 24,
+          "reply_count": 49,
+          "retweet_count": 2699
+        },
+        "reply_settings": "everyone",
+        "text": "my entire house is powered by this https://t.co/crG8Iq8I5o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "芹菜。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 42,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-17T15:47:57.000Z",
+        "description": "follow to expand the kagami network",
+        "id": "1836069508303216640",
+        "location": "🇷🇺",
+        "name": "delay ⏳",
+        "pinned_tweet_id": "1910444130939068573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899271180630065152/yMp2QHmI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 1027,
+          "like_count": 14378,
+          "listed_count": 5,
+          "media_count": 304,
+          "tweet_count": 4603
+        },
+        "username": "kagamidefense",
+        "verified": false
+      }
+    ]
+  }
+}

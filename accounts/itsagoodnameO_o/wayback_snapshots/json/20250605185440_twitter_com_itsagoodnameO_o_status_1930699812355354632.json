@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "1930530974292758832",
+    "created_at": "2025-06-05T18:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T19:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930699812355354632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930699812355354632",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930530974292758832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele p3咋不打码啊我草吓死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1930530708600365056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsqfc3oboAArfWe.jpg",
+        "width": 959
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1930530792809345024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsqfhxVasAAPOXl.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1930530799423827968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsqfiJ-bsAAhfET.jpg",
+        "width": 1280
+      },
+      {
+        "duration_ms": 11200,
+        "height": 848,
+        "media_key": "13_1930530830595891200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1930530830595891200/img/eEKzus_C8nbNJQ5g.jpg",
+        "public_metrics": {
+          "view_count": 373696
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930530830595891200/vid/avc1/320x564/1p-VPbP7O4QmvMSb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1930530830595891200/vid/avc1/480x848/pgWfjuBL0AI3LI6Z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1930530830595891200/pl/A3b0NDswWdx82Va-.m3u8?v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "1930530974292758832",
+        "created_at": "2025-06-05T18:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T19:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930699812355354632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930699812355354632",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930530974292758832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele p3咋不打码啊我草吓死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930530708600365056",
+            "3_1930530792809345024",
+            "3_1930530799423827968",
+            "13_1930530830595891200"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1930530974292758832",
+        "created_at": "2025-06-05T07:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T08:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930530974292758832"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A40vrdqBJU",
+              "end": 121,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1930530974292758832/video/1",
+              "media_key": "3_1930530708600365056",
+              "start": 98,
+              "url": "https://t.co/A40vrdqBJU"
+            },
+            {
+              "display_url": "pic.x.com/A40vrdqBJU",
+              "end": 121,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1930530974292758832/video/1",
+              "media_key": "3_1930530792809345024",
+              "start": 98,
+              "url": "https://t.co/A40vrdqBJU"
+            },
+            {
+              "display_url": "pic.x.com/A40vrdqBJU",
+              "end": 121,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1930530974292758832/video/1",
+              "media_key": "3_1930530799423827968",
+              "start": 98,
+              "url": "https://t.co/A40vrdqBJU"
+            },
+            {
+              "display_url": "pic.x.com/A40vrdqBJU",
+              "end": 121,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1930530974292758832/video/1",
+              "media_key": "13_1930530830595891200",
+              "start": 98,
+              "url": "https://t.co/A40vrdqBJU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930530974292758832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 393,
+          "impression_count": 944929,
+          "like_count": 2411,
+          "quote_count": 31,
+          "reply_count": 174,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "6月5日，湖北武汉，中国地质大学未来城校区。上午在湖中捞出一具学生尸体。目前校方已经封锁现场，正在学生群中点名确定身份。\n有学生表示，此次事件可能与该校今年新实行的“考试卷面50分斩杀线”有关。 https://t.co/A40vrdqBJU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "芹菜。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 45,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1930033346018480586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2008195,
+          "following_count": 956,
+          "like_count": 6774,
+          "listed_count": 8152,
+          "media_count": 29399,
+          "tweet_count": 35937
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

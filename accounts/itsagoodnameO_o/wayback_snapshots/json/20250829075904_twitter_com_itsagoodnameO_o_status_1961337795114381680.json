@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1390799556326019072",
+          "name": "PayPay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1390799556326019072",
+          "name": "PayPay"
+        }
+      }
+    ],
+    "conversation_id": "1961337795114381680",
+    "created_at": "2025-08-29T07:59:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T08:59:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961337795114381680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1747931023277502465",
+          "start": 3,
+          "username": "damatte8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961337795114381680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961331661724921930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @damatte8964: 最近病了，以及我把一部分钱给家里人了\n所以如果你喜欢我或者愿意无缘无故给我一点钱的话，，，（图1是paypay图二是微信）\n顺便一提门槛是99/198/520/1314过了的话可以和我聊天可以和我一起玩游戏 也接线下喵\n不提供任何可以购买的性服…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 524,
+        "media_key": "3_1961331656809484289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzgMwBLbkAEIYo-.jpg",
+        "width": 600
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1961331656788443136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzgMwBGagAAMfE_.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1390799556326019072",
+              "name": "PayPay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390799556326019072",
+              "name": "PayPay"
+            }
+          }
+        ],
+        "conversation_id": "1961337795114381680",
+        "created_at": "2025-08-29T07:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T08:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961337795114381680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1747931023277502465",
+              "start": 3,
+              "username": "damatte8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961337795114381680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961331661724921930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @damatte8964: 最近病了，以及我把一部分钱给家里人了\n所以如果你喜欢我或者愿意无缘无故给我一点钱的话，，，（图1是paypay图二是微信）\n顺便一提门槛是99/198/520/1314过了的话可以和我聊天可以和我一起玩游戏 也接线下喵\n不提供任何可以购买的性服…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961331656809484289",
+            "3_1961331656788443136"
+          ]
+        },
+        "author_id": "1747931023277502465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1390799556326019072",
+              "name": "PayPay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390799556326019072",
+              "name": "PayPay"
+            }
+          }
+        ],
+        "conversation_id": "1961331661724921930",
+        "created_at": "2025-08-29T07:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T08:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961331661724921930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZB06dMIp8w",
+              "end": 177,
+              "expanded_url": "https://x.com/damatte8964/status/1961331661724921930/photo/1",
+              "media_key": "3_1961331656809484289",
+              "start": 154,
+              "url": "https://t.co/ZB06dMIp8w"
+            },
+            {
+              "display_url": "pic.x.com/ZB06dMIp8w",
+              "end": 177,
+              "expanded_url": "https://x.com/damatte8964/status/1961331661724921930/photo/1",
+              "media_key": "3_1961331656788443136",
+              "start": 154,
+              "url": "https://t.co/ZB06dMIp8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961331661724921930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 188,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "最近病了，以及我把一部分钱给家里人了\n所以如果你喜欢我或者愿意无缘无故给我一点钱的话，，，（图1是paypay图二是微信）\n顺便一提门槛是99/198/520/1314过了的话可以和我聊天可以和我一起玩游戏 也接线下喵\n不提供任何可以购买的性服务，熟了之后我自会倒贴😌🫰\n路过的好心人可不可以帮我转转😭😭😭 https://t.co/ZB06dMIp8w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "我操坏事都是美国干的我恨你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 60,
+          "like_count": 778,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 64
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T10:37:04.000Z",
+        "description": "*セカイヘイワ*障害者手帳持っている人｜我活不起了🚪99/198/520，可以陪你聊天和你玩游戏给你唱歌跳舞画画😚😚😚｜成分复杂｜粉红勿扰｜接纯绿线下请先过门",
+        "id": "1747931023277502465",
+        "location": "Tokyo-to, Japan",
+        "name": "小咪之家",
+        "pinned_tweet_id": "1866766840078164028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929548470274367488/QK72McBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34467,
+          "following_count": 774,
+          "like_count": 7184,
+          "listed_count": 41,
+          "media_count": 220,
+          "tweet_count": 2539
+        },
+        "username": "damatte8964",
+        "verified": true
+      }
+    ]
+  }
+}

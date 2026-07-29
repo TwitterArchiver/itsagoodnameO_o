@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      }
+    ],
+    "conversation_id": "1912395858613846507",
+    "created_at": "2025-04-16T06:41:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T07:41:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912395858613846507"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "serial experiments lain  岩倉玲",
+          "probability": 0.148,
+          "start": 25,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2797240680",
+          "start": 3,
+          "username": "messa_store"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912395858613846507",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 238
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912069179756195913",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @messa_store: 【再販売情報】\nserial experiments lain  岩倉玲音ぬいぐるみ\n明日4月16日(水)18:00より再販売開始\n\n受注注文を頂いておりました全ての方にお送りさせて頂きまして、再販売日が決まりましたので買い逃してしまった方は要…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3206,
+        "media_key": "3_1912069013548544001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GokIoyKXsAEnGEw.jpg",
+        "width": 3206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "1912395858613846507",
+        "created_at": "2025-04-16T06:41:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T07:41:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912395858613846507"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "serial experiments lain  岩倉玲",
+              "probability": 0.148,
+              "start": 25,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2797240680",
+              "start": 3,
+              "username": "messa_store"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912395858613846507",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 238
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912069179756195913",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @messa_store: 【再販売情報】\nserial experiments lain  岩倉玲音ぬいぐるみ\n明日4月16日(水)18:00より再販売開始\n\n受注注文を頂いておりました全ての方にお送りさせて頂きまして、再販売日が決まりましたので買い逃してしまった方は要…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912069013548544001"
+          ]
+        },
+        "author_id": "2797240680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "1912069179756195913",
+        "created_at": "2025-04-15T09:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T10:02:36.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912069034117644785",
+          "1912069179756195913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWLFmhKM2M",
+              "end": 206,
+              "expanded_url": "https://x.com/messa_store/status/1912069179756195913/photo/1",
+              "media_key": "3_1912069013548544001",
+              "start": 183,
+              "url": "https://t.co/vWLFmhKM2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912069179756195913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 485,
+                "start": 463,
+                "tag": "serialexperimentslain"
+              },
+              {
+                "end": 491,
+                "start": 486,
+                "tag": "岩倉玲音"
+              },
+              {
+                "end": 497,
+                "start": 492,
+                "tag": "lain"
+              },
+              {
+                "end": 504,
+                "start": 498,
+                "tag": "ぬいぐるみ"
+              },
+              {
+                "end": 516,
+                "start": 505,
+                "tag": "messastore"
+              },
+              {
+                "end": 524,
+                "start": 517,
+                "tag": "メッサストア"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "h-messa.com",
+                "end": 461,
+                "expanded_url": "https://h-messa.com",
+                "start": 438,
+                "url": "https://t.co/jGe1eidrgp"
+              }
+            ]
+          },
+          "text": "【再販売情報】\nserial experiments lain  岩倉玲音ぬいぐるみ\n明日4月16日(水)18:00より再販売開始\n\n受注注文を頂いておりました全ての方にお送りさせて頂きまして、再販売日が決まりましたので買い逃してしまった方は要チェックでお願い致します。\n\n【Restock Information】\nserial experiments lain – Lain Iwakura Plushie\nRestock begins tomorrow, Wednesday, April 16th at 6:00 PM (JST).\n\nWe have completed shipping all pre-orders, and the restock date has now been confirmed.\nIf you missed out the first time, don’t forget to check back and grab yours!\n\nhttps://t.co/jGe1eidrgp\n\n#serialexperimentslain #岩倉玲音 #lain #ぬいぐるみ #messastore #メッサストア"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 31115,
+          "like_count": 869,
+          "quote_count": 40,
+          "reply_count": 2,
+          "retweet_count": 238
+        },
+        "reply_settings": "everyone",
+        "text": "【再販売情報】\nserial experiments lain  岩倉玲音ぬいぐるみ\n明日4月16日(水)18:00より再販売開始\n\n受注注文を頂いておりました全ての方にお送りさせて頂きまして、再販売日が決まりましたので買い逃してしまった方は要チェックでお願い致します。\n\n【Restock Information】\nserial experiments lain https://t.co/vWLFmhKM2M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "芹菜。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 42,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-08T05:07:44.000Z",
+        "description": "公式キャラクターアパレルブランド「messa」／発売中➡️ 梅津泰臣様作品／ serial experiments lain／ TEXHNOLYZE／灰羽連盟／NieA_7／パンツァードラグーン／Ergo Proxy／伊藤潤二様作品🌍International Site : https://t.co/QK1KNCWHqw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "en.h-messa.com",
+                "end": 161,
+                "expanded_url": "http://en.h-messa.com",
+                "start": 138,
+                "url": "https://t.co/QK1KNCWHqw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-messa.com",
+                "end": 23,
+                "expanded_url": "http://www.h-messa.com/",
+                "start": 0,
+                "url": "https://t.co/sVsaTjJODI"
+              }
+            ]
+          }
+        },
+        "id": "2797240680",
+        "name": "メッサストア",
+        "pinned_tweet_id": "1869674217941438948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/508844794815066113/BalNNQ7Q_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5428,
+          "following_count": 2684,
+          "like_count": 52035,
+          "listed_count": 26,
+          "media_count": 399,
+          "tweet_count": 5686
+        },
+        "url": "https://t.co/sVsaTjJODI",
+        "username": "messa_store",
+        "verified": true
+      }
+    ]
+  }
+}

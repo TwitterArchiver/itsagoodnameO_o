@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2071932917992116705",
+    "created_at": "2026-06-30T16:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071992556339220482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879125730581450753",
+          "start": 0,
+          "username": "dxmpopper2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071992556339220482",
+    "in_reply_to_user_id": "1879125730581450753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071935400961335600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dxmpopper2006 是因为我不怎么产生内幻所以才😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2071932917992116705",
+        "created_at": "2026-06-30T16:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071992556339220482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879125730581450753",
+              "start": 0,
+              "username": "dxmpopper2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071992556339220482",
+        "in_reply_to_user_id": "1879125730581450753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071935400961335600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dxmpopper2006 是因为我不怎么产生内幻所以才😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879125730581450753",
+        "conversation_id": "2071932917992116705",
+        "created_at": "2026-06-30T12:34:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071935400961335600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071935400961335600",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071932917992116705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 我每次磕右美都是很迷糊吧都是躺床上听歌然后看内幻😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071229889160880128/puKik6XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 91,
+          "like_count": 1534,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 223
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T11:17:50.000Z",
+        "description": "⋆⭒˚ ｡⋆₊ ⊹ ⋆\nhe/him🏳️‍🌈/English/中文\n重焦B 睡眠障碍B 休学B\n我喜欢喝酒嗑药欢迎互关 #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1879125730581450753",
+        "name": "dex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066508132898226177/6uhT7gE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 83,
+          "like_count": 507,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "dxmpopper2006",
+        "verified": false
+      }
+    ]
+  }
+}

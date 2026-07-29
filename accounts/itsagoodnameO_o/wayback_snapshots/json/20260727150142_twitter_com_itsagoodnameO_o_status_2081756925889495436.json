@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2081756925889495436",
+    "created_at": "2026-07-27T15:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081756925889495436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2063169843671793664",
+          "start": 3,
+          "username": "Mercyvxv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081756925889495436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 513
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080869950563193143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mercyvxv: 你们这群几把地雷女 又有钱买药吃 又有游戏机 电脑玩 每天不用上班上学的 想吃什么外卖点什么 想去哪里旅游就去哪里旅游 我不知道你们一天在网上到底在崩溃什么几把 在痛苦什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2081756925889495436",
+        "created_at": "2026-07-27T15:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081756925889495436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2063169843671793664",
+              "start": 3,
+              "username": "Mercyvxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081756925889495436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 513
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080869950563193143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mercyvxv: 你们这群几把地雷女 又有钱买药吃 又有游戏机 电脑玩 每天不用上班上学的 想吃什么外卖点什么 想去哪里旅游就去哪里旅游 我不知道你们一天在网上到底在崩溃什么几把 在痛苦什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063169843671793664",
+        "conversation_id": "2080869950563193143",
+        "created_at": "2026-07-25T04:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080869950563193143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080869950563193143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 431754,
+          "like_count": 7263,
+          "quote_count": 41,
+          "reply_count": 232,
+          "retweet_count": 513
+        },
+        "reply_settings": "everyone",
+        "text": "你们这群几把地雷女 又有钱买药吃 又有游戏机 电脑玩 每天不用上班上学的 想吃什么外卖点什么 想去哪里旅游就去哪里旅游 我不知道你们一天在网上到底在崩溃什么几把 在痛苦什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079572464414445568/oRlzRC9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 131,
+          "like_count": 1923,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 503
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T08:06:56.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR，💊🔪🩸。",
+        "id": "2063169843671793664",
+        "name": "Mercy",
+        "pinned_tweet_id": "2077308305370923116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063171578217766912/yFJpjZ2G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 464,
+          "like_count": 4404,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1618
+        },
+        "url": "",
+        "username": "Mercyvxv",
+        "verified": false
+      }
+    ]
+  }
+}

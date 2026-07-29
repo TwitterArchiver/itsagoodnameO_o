@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "1957615684051202356",
+    "created_at": "2025-08-19T10:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T11:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957752986740093245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1655706263492206593",
+          "start": 0,
+          "username": "xiaugougou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957752986740093245",
+    "in_reply_to_user_id": "1655706263492206593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957615684051202356",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaugougou 卧槽对啊为啥啊我也点不开。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "1957615684051202356",
+        "created_at": "2025-08-19T10:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T11:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957752986740093245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1655706263492206593",
+              "start": 0,
+              "username": "xiaugougou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957752986740093245",
+        "in_reply_to_user_id": "1655706263492206593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957615684051202356",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaugougou 卧槽对啊为啥啊我也点不开。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655706263492206593",
+        "conversation_id": "1957615684051202356",
+        "created_at": "2025-08-19T01:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T02:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957615684051202356"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957615684051202356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 329,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我拜托你们不要点敏感cover了我点不开啊啊啊啊啊我想看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "我操坏事都是美国干的我恨你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 55,
+          "like_count": 669,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 60
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T22:48:42.000Z",
+        "description": "📷\nig: jy241111\n想念大不列颠的健身教练",
+        "id": "1655706263492206593",
+        "name": "路人",
+        "pinned_tweet_id": "1953720320604737546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852703339923779584/_SBMFpEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 9,
+          "like_count": 1854,
+          "listed_count": 0,
+          "media_count": 416,
+          "tweet_count": 2127
+        },
+        "username": "xiaugougou",
+        "verified": false
+      }
+    ]
+  }
+}

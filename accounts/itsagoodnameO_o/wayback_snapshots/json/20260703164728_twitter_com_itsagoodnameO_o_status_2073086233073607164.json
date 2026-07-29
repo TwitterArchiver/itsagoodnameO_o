@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2072989153399374181",
+    "created_at": "2026-07-03T16:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073086233073607164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2023432790319177729",
+          "start": 0,
+          "username": "Sleeping_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073086233073607164",
+    "in_reply_to_user_id": "2023432790319177729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073080465893032090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sleeping_qwq 哭了我不会打舞萌！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2072989153399374181",
+        "created_at": "2026-07-03T16:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073086233073607164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023432790319177729",
+              "start": 0,
+              "username": "Sleeping_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073086233073607164",
+        "in_reply_to_user_id": "2023432790319177729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073080465893032090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sleeping_qwq 哭了我不会打舞萌！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023432790319177729",
+        "conversation_id": "2072989153399374181",
+        "created_at": "2026-07-03T16:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073080465893032090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073080465893032090",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072989153399374181",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 打舞萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 112,
+          "like_count": 1554,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 269
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T16:22:35.000Z",
+        "description": "平平无奇在读高中牲 | 立志刷新在每一个奇怪的角落（bushi | Arcaea 和 舞萌 DX 萌新 | 求互 fo",
+        "id": "2023432790319177729",
+        "name": "qwq 互fo大欢迎喵",
+        "pinned_tweet_id": "2039018597088178556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023436484406337536/Jw3l8ikX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 272,
+          "like_count": 5832,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 2009
+        },
+        "url": "",
+        "username": "Sleeping_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

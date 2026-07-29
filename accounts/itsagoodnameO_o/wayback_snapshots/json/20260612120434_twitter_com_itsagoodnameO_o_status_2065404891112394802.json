@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2064677662610849870",
+    "created_at": "2026-06-12T12:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065404891112394802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1543858650548412422",
+          "start": 0,
+          "username": "ChenbooC"
+        },
+        {
+          "end": 23,
+          "id": "1429219607441641477",
+          "start": 10,
+          "username": "ouroboroskit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065404891112394802",
+    "in_reply_to_user_id": "1543858650548412422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064760040175886677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenbooC @ouroboroskit 还出吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2064677662610849870",
+        "created_at": "2026-06-12T12:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065404891112394802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1543858650548412422",
+              "start": 0,
+              "username": "ChenbooC"
+            },
+            {
+              "end": 23,
+              "id": "1429219607441641477",
+              "start": 10,
+              "username": "ouroboroskit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065404891112394802",
+        "in_reply_to_user_id": "1543858650548412422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064760040175886677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenbooC @ouroboroskit 还出吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1543858650548412422",
+        "conversation_id": "2064677662610849870",
+        "created_at": "2026-06-10T17:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064760040175886677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429219607441641477",
+              "start": 0,
+              "username": "ouroboroskit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064760040175886677",
+        "in_reply_to_user_id": "1429219607441641477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064677662610849870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ouroboroskit 你要吗我有好多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 86,
+          "like_count": 1509,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 189
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-04T07:26:22.000Z",
+        "description": "退役oder 永远悼念愈美片，搞来再多的普瑞也不能和愈美1+1了",
+        "id": "1543858650548412422",
+        "location": "天国",
+        "name": ".",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846520025722871808/l0AUT53d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 56,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 113
+        },
+        "username": "ChenbooC",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T23:11:46.000Z",
+        "description": "1",
+        "id": "1429219607441641477",
+        "name": "1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050610908217683970/3Nq6BpLk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 13,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "ouroboroskit",
+        "verified": false
+      }
+    ]
+  }
+}

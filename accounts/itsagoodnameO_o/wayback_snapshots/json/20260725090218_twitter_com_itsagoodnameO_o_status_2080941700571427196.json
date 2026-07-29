@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2080907755788136500",
+    "created_at": "2026-07-25T09:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T10:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080941700571427196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1587376519860539392",
+          "start": 0,
+          "username": "huolong010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080941700571427196",
+    "in_reply_to_user_id": "1587376519860539392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080940931038220443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huolong010 呵呵花了我一百五十块心疼中！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2080907755788136500",
+        "created_at": "2026-07-25T09:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080941700571427196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1587376519860539392",
+              "start": 0,
+              "username": "huolong010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080941700571427196",
+        "in_reply_to_user_id": "1587376519860539392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080940931038220443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huolong010 呵呵花了我一百五十块心疼中！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587376519860539392",
+        "conversation_id": "2080907755788136500",
+        "created_at": "2026-07-25T08:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080940931038220443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080940931038220443",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080907755788136500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 花完啦？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079572464414445568/oRlzRC9d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 131,
+          "like_count": 1912,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 489
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-01T09:30:46.000Z",
+        "description": "产品人 | 研究Ai是工作也是爱好｜探索被动收入 ｜专注于Ai实践，搁这聊聊Ai",
+        "id": "1587376519860539392",
+        "location": "杭州",
+        "name": "牛油果先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911808425031282689/kxDjOSeg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 441,
+          "like_count": 2619,
+          "listed_count": 9,
+          "media_count": 493,
+          "tweet_count": 4148
+        },
+        "url": "",
+        "username": "huolong010",
+        "verified": false
+      }
+    ]
+  }
+}

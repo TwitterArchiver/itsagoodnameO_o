@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1910270404557492224"
+      ],
+      "media_source_tweet_id": [
+        "1910270407082459474"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "conversation_id": "1910333517919326451",
+    "created_at": "2025-04-10T14:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T15:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910333517919326451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2828212668",
+          "start": 3,
+          "username": "AMAZlNGNATURE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bOKXdJnr5U",
+          "end": 88,
+          "expanded_url": "https://x.com/AMAZlNGNATURE/status/1910270407082459474/photo/1",
+          "media_key": "3_1910270404557492224",
+          "start": 65,
+          "url": "https://t.co/bOKXdJnr5U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910333517919326451",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 364
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910270407082459474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AMAZlNGNATURE: Aliens are not real. Meanwhile in the ocean.. https://t.co/bOKXdJnr5U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_1910270404557492224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoKkz9iXUAAvNx2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910270404557492224"
+          ],
+          "media_source_tweet_id": [
+            "1910270407082459474"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "conversation_id": "1910333517919326451",
+        "created_at": "2025-04-10T14:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T15:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910333517919326451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2828212668",
+              "start": 3,
+              "username": "AMAZlNGNATURE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bOKXdJnr5U",
+              "end": 88,
+              "expanded_url": "https://x.com/AMAZlNGNATURE/status/1910270407082459474/photo/1",
+              "media_key": "3_1910270404557492224",
+              "start": 65,
+              "url": "https://t.co/bOKXdJnr5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910333517919326451",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 364
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910270407082459474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AMAZlNGNATURE: Aliens are not real. Meanwhile in the ocean.. https://t.co/bOKXdJnr5U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910270404557492224"
+          ]
+        },
+        "author_id": "2828212668",
+        "conversation_id": "1910270407082459474",
+        "created_at": "2025-04-10T09:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T10:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910270407082459474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bOKXdJnr5U",
+              "end": 69,
+              "expanded_url": "https://x.com/AMAZlNGNATURE/status/1910270407082459474/photo/1",
+              "media_key": "3_1910270404557492224",
+              "start": 46,
+              "url": "https://t.co/bOKXdJnr5U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910270407082459474",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 139493,
+          "like_count": 3657,
+          "quote_count": 23,
+          "reply_count": 161,
+          "retweet_count": 364
+        },
+        "reply_settings": "everyone",
+        "text": "Aliens are not real. Meanwhile in the ocean.. https://t.co/bOKXdJnr5U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "芹菜。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 38,
+          "like_count": 353,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 17
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-23T15:27:26.000Z",
+        "description": "Animals 🐿️ Nature 🦋 Discovery 🦖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/amazlng.nature",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/amazlng.nature",
+                "start": 0,
+                "url": "https://t.co/eLQP37nHde"
+              }
+            ]
+          }
+        },
+        "id": "2828212668",
+        "location": "🌍",
+        "name": "Nature is Amazing ☘️",
+        "pinned_tweet_id": "1904253134794596363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5031910,
+          "following_count": 47,
+          "like_count": 1361,
+          "listed_count": 10952,
+          "media_count": 19241,
+          "tweet_count": 20684
+        },
+        "url": "https://t.co/eLQP37nHde",
+        "username": "AMAZlNGNATURE",
+        "verified": true
+      }
+    ]
+  }
+}

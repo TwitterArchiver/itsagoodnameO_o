@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2020103208232702020",
+    "created_at": "2026-02-07T14:53:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T15:53:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020148947306836024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595700376203771904",
+          "start": 0,
+          "username": "user88881102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020148947306836024",
+    "in_reply_to_user_id": "1595700376203771904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020103208232702020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@user88881102 太搞笑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5666,
+        "height": 720,
+        "media_key": "13_2020103145490464768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020103145490464768/img/asjqitp2ILpIzudx.jpg",
+        "public_metrics": {
+          "view_count": 2896
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020103145490464768/vid/avc1/480x270/0RwGT0GRjiOm18fr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020103145490464768/vid/avc1/640x360/xtSbv5wQwmGFUnuP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020103145490464768/vid/avc1/1280x720/zKLlsR1TXQRurbAw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020103145490464768/pl/EyxFc-ISyyL5D-08.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2020103208232702020",
+        "created_at": "2026-02-07T14:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T15:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020148947306836024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595700376203771904",
+              "start": 0,
+              "username": "user88881102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020148947306836024",
+        "in_reply_to_user_id": "1595700376203771904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020103208232702020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@user88881102 太搞笑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020103145490464768"
+          ]
+        },
+        "author_id": "1595700376203771904",
+        "conversation_id": "2020103208232702020",
+        "created_at": "2026-02-07T11:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020103208232702020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TnipSBGeV2",
+              "end": 83,
+              "expanded_url": "https://x.com/user88881102/status/2020103208232702020/video/1",
+              "media_key": "13_2020103145490464768",
+              "start": 60,
+              "url": "https://t.co/TnipSBGeV2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020103208232702020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8596,
+          "like_count": 154,
+          "quote_count": 11,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "现实里第一次和吉他张见面，他没有展露出网上的任何抽象，一个礼貌的男孩，他说他要好好对待生活，他不喜欢之前的自己，祝福他 https://t.co/TnipSBGeV2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 81,
+          "like_count": 1359,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 153
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T08:46:39.000Z",
+        "description": "我写字，我看电影，我听音乐，我在这里，我去那里",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/cllKb",
+                "end": 23,
+                "expanded_url": "https://boxd.it/cllKb",
+                "start": 0,
+                "url": "https://t.co/iAm7icHPSY"
+              }
+            ]
+          }
+        },
+        "id": "1595700376203771904",
+        "name": "yangfan666",
+        "pinned_tweet_id": "1595701757954650112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799529203525996544/uZtnEPpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4805,
+          "following_count": 3363,
+          "like_count": 5812,
+          "listed_count": 7,
+          "media_count": 596,
+          "tweet_count": 3568
+        },
+        "url": "https://t.co/iAm7icHPSY",
+        "username": "user88881102",
+        "verified": false
+      }
+    ]
+  }
+}

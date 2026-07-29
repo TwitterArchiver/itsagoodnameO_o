@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2072987422745596124",
+    "created_at": "2026-07-03T10:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072987422745596124"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072987422745596124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "翻了一下新关注我的一个人的属性，让我想起了之前已经绝交的一个朋友。要是被他刷到我的推也太恐怖。如果恬不知耻地关注我被我发现了会让我特别生气吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2072987422745596124",
+        "created_at": "2026-07-03T10:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072987422745596124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072987422745596124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻了一下新关注我的一个人的属性，让我想起了之前已经绝交的一个朋友。要是被他刷到我的推也太恐怖。如果恬不知耻地关注我被我发现了会让我特别生气吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 107,
+          "like_count": 1548,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

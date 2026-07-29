@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1957012834572967936"
+      ],
+      "media_source_tweet_id": [
+        "1957012842508685745"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "conversation_id": "1957383649026019584",
+    "created_at": "2025-08-18T10:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T11:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957383649026019584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1908668668919398400",
+          "start": 3,
+          "username": "Kazumasski"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QWA9fKhV5L",
+          "end": 39,
+          "expanded_url": "https://x.com/Kazumasski/status/1957012842508685745/photo/1",
+          "media_key": "3_1957012834572967936",
+          "start": 16,
+          "url": "https://t.co/QWA9fKhV5L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957383649026019584",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957012842508685745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kazumasski: https://t.co/QWA9fKhV5L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1619,
+        "media_key": "3_1957012834572967936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gyi0zemaIAAoeqA.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957012834572967936"
+          ],
+          "media_source_tweet_id": [
+            "1957012842508685745"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "conversation_id": "1957383649026019584",
+        "created_at": "2025-08-18T10:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T11:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957383649026019584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1908668668919398400",
+              "start": 3,
+              "username": "Kazumasski"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QWA9fKhV5L",
+              "end": 39,
+              "expanded_url": "https://x.com/Kazumasski/status/1957012842508685745/photo/1",
+              "media_key": "3_1957012834572967936",
+              "start": 16,
+              "url": "https://t.co/QWA9fKhV5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957383649026019584",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957012842508685745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kazumasski: https://t.co/QWA9fKhV5L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957012834572967936"
+          ]
+        },
+        "author_id": "1908668668919398400",
+        "conversation_id": "1957012842508685745",
+        "created_at": "2025-08-17T09:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T10:33:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957012842508685745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QWA9fKhV5L",
+              "end": 23,
+              "expanded_url": "https://x.com/Kazumasski/status/1957012842508685745/photo/1",
+              "media_key": "3_1957012834572967936",
+              "start": 0,
+              "url": "https://t.co/QWA9fKhV5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957012842508685745",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 76171,
+          "like_count": 924,
+          "quote_count": 3,
+          "reply_count": 60,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QWA9fKhV5L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "我操坏事都是美国干的我恨你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 56,
+          "like_count": 664,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 59
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T23:50:54.000Z",
+        "description": "おじさんです｜佐々木 和真と申します｜インターネットの悪人｜#音ゲーマー｜13歳中2生｜あの人@chaox1220_2nd｜サブ垢@hhaaiibot 音ゲー垢@bblloocckk_｜头像是 #白买蓝 #Buyblue1107｜メール✉️:sashisusesoowo@hotmail.com ｜よろしく申し上げます。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "音ゲーマー"
+              },
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "白买蓝"
+              },
+              {
+                "end": 114,
+                "start": 102,
+                "tag": "Buyblue1107"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 47,
+                "username": "chaox1220_2nd"
+              },
+              {
+                "end": 75,
+                "start": 65,
+                "username": "hhaaiibot"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "bblloocckk_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "irasutoya.com",
+                "end": 23,
+                "expanded_url": "http://irasutoya.com",
+                "start": 0,
+                "url": "https://t.co/vxqq8xI5xm"
+              }
+            ]
+          }
+        },
+        "id": "1908668668919398400",
+        "location": "金金金金",
+        "name": "佐々木 和真 🏳️‍🌈🇯🇵",
+        "pinned_tweet_id": "1956014047381610598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955992249348841473/QzFgQsJr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 3470,
+          "like_count": 3940,
+          "listed_count": 2,
+          "media_count": 852,
+          "tweet_count": 4598
+        },
+        "url": "https://t.co/vxqq8xI5xm",
+        "username": "Kazumasski",
+        "verified": true
+      }
+    ]
+  }
+}

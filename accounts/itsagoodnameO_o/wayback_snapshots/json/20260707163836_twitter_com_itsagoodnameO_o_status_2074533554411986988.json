@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074533540369412099",
+        "3_2074533540365217793",
+        "3_2074533540352708608",
+        "3_2074533540398772226"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074533554411986988",
+    "created_at": "2026-07-07T16:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074533554411986988"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XlrS5krCFL",
+          "end": 41,
+          "expanded_url": "https://x.com/itsagoodnameO_o/status/2074533554411986988/photo/1",
+          "media_key": "3_2074533540369412099",
+          "start": 18,
+          "url": "https://t.co/XlrS5krCFL"
+        },
+        {
+          "display_url": "pic.x.com/XlrS5krCFL",
+          "end": 41,
+          "expanded_url": "https://x.com/itsagoodnameO_o/status/2074533554411986988/photo/1",
+          "media_key": "3_2074533540365217793",
+          "start": 18,
+          "url": "https://t.co/XlrS5krCFL"
+        },
+        {
+          "display_url": "pic.x.com/XlrS5krCFL",
+          "end": 41,
+          "expanded_url": "https://x.com/itsagoodnameO_o/status/2074533554411986988/photo/1",
+          "media_key": "3_2074533540352708608",
+          "start": 18,
+          "url": "https://t.co/XlrS5krCFL"
+        },
+        {
+          "display_url": "pic.x.com/XlrS5krCFL",
+          "end": 41,
+          "expanded_url": "https://x.com/itsagoodnameO_o/status/2074533554411986988/photo/1",
+          "media_key": "3_2074533540398772226",
+          "start": 18,
+          "url": "https://t.co/XlrS5krCFL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074533554411986988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎呀很开心和两个很可爱的朋友约会了 https://t.co/XlrS5krCFL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074533540369412099",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo5Q3xaMAM52jO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074533540365217793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo5Q3waMAE8JBR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074533540352708608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo5Q3tbUAAvMl-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074533540398772226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMo5Q34aMAIAtC2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074533540369412099",
+            "3_2074533540365217793",
+            "3_2074533540352708608",
+            "3_2074533540398772226"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074533554411986988",
+        "created_at": "2026-07-07T16:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074533554411986988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XlrS5krCFL",
+              "end": 41,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2074533554411986988/photo/1",
+              "media_key": "3_2074533540369412099",
+              "start": 18,
+              "url": "https://t.co/XlrS5krCFL"
+            },
+            {
+              "display_url": "pic.x.com/XlrS5krCFL",
+              "end": 41,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2074533554411986988/photo/1",
+              "media_key": "3_2074533540365217793",
+              "start": 18,
+              "url": "https://t.co/XlrS5krCFL"
+            },
+            {
+              "display_url": "pic.x.com/XlrS5krCFL",
+              "end": 41,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2074533554411986988/photo/1",
+              "media_key": "3_2074533540352708608",
+              "start": 18,
+              "url": "https://t.co/XlrS5krCFL"
+            },
+            {
+              "display_url": "pic.x.com/XlrS5krCFL",
+              "end": 41,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2074533554411986988/photo/1",
+              "media_key": "3_2074533540398772226",
+              "start": 18,
+              "url": "https://t.co/XlrS5krCFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074533554411986988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎呀很开心和两个很可爱的朋友约会了 https://t.co/XlrS5krCFL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 114,
+          "like_count": 1571,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

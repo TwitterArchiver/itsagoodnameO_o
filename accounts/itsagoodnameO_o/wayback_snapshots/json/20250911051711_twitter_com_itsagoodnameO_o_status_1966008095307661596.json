@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "1965970556790198404",
+    "created_at": "2025-09-11T05:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T06:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966008095307661596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1508447794537070595",
+          "start": 0,
+          "username": "sakura2333owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966008095307661596",
+    "in_reply_to_user_id": "1508447794537070595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965972423330902139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakura2333owo 沒看懂，這種人居然是你男/女朋友？？。。？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1965972402141331456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0iJe8vbAAAZ_eh.jpg",
+        "width": 506
+      },
+      {
+        "height": 468,
+        "media_key": "3_1965972400555835392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0iJe21aQAAfRA2.jpg",
+        "width": 1024
+      },
+      {
+        "height": 982,
+        "media_key": "3_1965972400509702144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0iJe2qaUAAOogA.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "1965970556790198404",
+        "created_at": "2025-09-11T05:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T06:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966008095307661596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1508447794537070595",
+              "start": 0,
+              "username": "sakura2333owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966008095307661596",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965972423330902139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakura2333owo 沒看懂，這種人居然是你男/女朋友？？。。？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965972402141331456",
+            "3_1965972400555835392",
+            "3_1965972400509702144"
+          ]
+        },
+        "author_id": "1508447794537070595",
+        "conversation_id": "1965970556790198404",
+        "created_at": "2025-09-11T02:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T03:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965972423330902139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2jAZi32WM",
+              "end": 137,
+              "expanded_url": "https://x.com/sakura2333owo/status/1965972423330902139/photo/1",
+              "media_key": "3_1965972402141331456",
+              "start": 114,
+              "url": "https://t.co/V2jAZi32WM"
+            },
+            {
+              "display_url": "pic.x.com/V2jAZi32WM",
+              "end": 137,
+              "expanded_url": "https://x.com/sakura2333owo/status/1965972423330902139/photo/1",
+              "media_key": "3_1965972400555835392",
+              "start": 114,
+              "url": "https://t.co/V2jAZi32WM"
+            },
+            {
+              "display_url": "pic.x.com/V2jAZi32WM",
+              "end": 137,
+              "expanded_url": "https://x.com/sakura2333owo/status/1965972423330902139/photo/1",
+              "media_key": "3_1965972400509702144",
+              "start": 114,
+              "url": "https://t.co/V2jAZi32WM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965972423330902139",
+        "in_reply_to_user_id": "1508447794537070595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 753,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965970556790198404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且看我视频久的都知道我三年前就开始群里打视频电话了… 内容就是大家都打视频电话 还有跨年晚会群友们表演节目唱歌跳舞打游戏变魔术拧魔方fumofufu代播不等…这怎么还能说的跟我搞什么群粉播福利似的我靠会不会措辞啊在引如导什么 https://t.co/V2jAZi32WM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "我操坏事都是美国干的我恨你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 63,
+          "like_count": 859,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 76
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-28T14:16:13.000Z",
+        "description": "置顶自辩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Sakura2333owo",
+                "end": 23,
+                "expanded_url": "https://lit.link/Sakura2333owo",
+                "start": 0,
+                "url": "https://t.co/2M16SicvYq"
+              }
+            ]
+          }
+        },
+        "id": "1508447794537070595",
+        "location": "主页推广真假自辩 ",
+        "name": "☆猫猫国国王桜夏一世☆",
+        "pinned_tweet_id": "1965964341464969319",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941781965063274496/tg-kIyPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34740,
+          "following_count": 280,
+          "like_count": 7314,
+          "listed_count": 67,
+          "media_count": 1119,
+          "tweet_count": 5069
+        },
+        "url": "https://t.co/2M16SicvYq",
+        "username": "sakura2333owo",
+        "verified": false
+      }
+    ]
+  }
+}

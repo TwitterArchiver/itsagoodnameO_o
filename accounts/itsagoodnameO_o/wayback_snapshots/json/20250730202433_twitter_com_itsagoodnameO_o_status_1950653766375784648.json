@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "1950653766375784648",
+    "created_at": "2025-07-30T20:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T21:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950653766375784648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GoSweetHub/sta…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/GoSweetHub/status/1950523964008378676",
+          "start": 17,
+          "url": "https://t.co/SHLhkQ4oH3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950653766375784648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950523964008378676",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的妈呀。这个一看就特别好吃。。 https://t.co/SHLhkQ4oH3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1950523960690442240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxGnNTrXgAAt2uq.jpg",
+        "width": 1376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "1950653766375784648",
+        "created_at": "2025-07-30T20:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T21:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950653766375784648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GoSweetHub/sta…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/GoSweetHub/status/1950523964008378676",
+              "start": 17,
+              "url": "https://t.co/SHLhkQ4oH3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950653766375784648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950523964008378676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的妈呀。这个一看就特别好吃。。 https://t.co/SHLhkQ4oH3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950523960690442240"
+          ]
+        },
+        "author_id": "313251659",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1950523964008378676",
+        "created_at": "2025-07-30T11:48:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T12:48:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950523964008378676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZvLKcjV5WB",
+              "end": 23,
+              "expanded_url": "https://x.com/GoSweetHub/status/1950523964008378676/photo/1",
+              "media_key": "3_1950523960690442240",
+              "start": 0,
+              "url": "https://t.co/ZvLKcjV5WB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950523964008378676",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 430,
+          "impression_count": 293903,
+          "like_count": 10091,
+          "quote_count": 550,
+          "reply_count": 147,
+          "retweet_count": 1176
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZvLKcjV5WB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "我操坏事都是美国干的我恨你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 55,
+          "like_count": 614,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 52
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-08T11:17:50.000Z",
+        "description": "Daily sweets, daily smiles! 🍬✨ Stay sweet!",
+        "id": "313251659",
+        "location": "USA 🇺🇸",
+        "name": "SWEET HUB",
+        "pinned_tweet_id": "1947214959441526920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949077520067788801/ngCsRIAM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9609,
+          "following_count": 417,
+          "like_count": 805,
+          "listed_count": 24,
+          "media_count": 1057,
+          "tweet_count": 4746
+        },
+        "username": "GoSweetHub",
+        "verified": true
+      }
+    ]
+  }
+}

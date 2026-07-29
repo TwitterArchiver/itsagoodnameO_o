@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2071870211041681797",
+    "created_at": "2026-07-01T16:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072354861153419724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879125730581450753",
+          "start": 0,
+          "username": "dxmpopper2006"
+        },
+        {
+          "end": 28,
+          "id": "1561806114274287616",
+          "start": 15,
+          "username": "crossyangshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072354861153419724",
+    "in_reply_to_user_id": "1879125730581450753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071951449882599572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dxmpopper2006 @crossyangshe 对。。。我也是这样！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2071870211041681797",
+        "created_at": "2026-07-01T16:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072354861153419724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879125730581450753",
+              "start": 0,
+              "username": "dxmpopper2006"
+            },
+            {
+              "end": 28,
+              "id": "1561806114274287616",
+              "start": 15,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072354861153419724",
+        "in_reply_to_user_id": "1879125730581450753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071951449882599572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dxmpopper2006 @crossyangshe 对。。。我也是这样！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879125730581450753",
+        "conversation_id": "2071870211041681797",
+        "created_at": "2026-06-30T13:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T14:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071951449882599572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071951449882599572",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071870211041681797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 还不如去买几瓶酒几包烟......这个药我吃了三次都没有感觉到什么 推上有人教怎么加巴喷丁利用率达到最高的办法我也试了 吃着就是像没吃一样 like wtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 91,
+          "like_count": 1539,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 232
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-14T11:17:50.000Z",
+        "description": "⋆⭒˚ ｡⋆₊ ⊹ ⋆\nhe/him🏳️‍🌈/English/中文\n重焦B 睡眠障碍B 休学B\n我喜欢喝酒嗑药欢迎互关 #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 60,
+                "tag": "drugtwt"
+              }
+            ]
+          }
+        },
+        "id": "1879125730581450753",
+        "name": "dex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066508132898226177/6uhT7gE5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 82,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "dxmpopper2006",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "az，非健全人，努力生存中，希望有人关注我",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 253,
+          "like_count": 992,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 384
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false
+      }
+    ]
+  }
+}

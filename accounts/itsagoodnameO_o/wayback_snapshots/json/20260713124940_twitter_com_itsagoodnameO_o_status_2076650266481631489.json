@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2076640955323789715",
+    "created_at": "2026-07-13T12:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T13:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076650266481631489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1901639919308820480",
+          "start": 0,
+          "username": "Miyuki__ii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076650266481631489",
+    "in_reply_to_user_id": "1901639919308820480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076640955323789715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miyuki__ii 这个女孩太萌了呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1532,
+        "media_key": "3_2076640937330257920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNG17hOasAAQILb.jpg",
+        "width": 1021
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076640937326063616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNG17hNasAAOl_3.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2076640955323789715",
+        "created_at": "2026-07-13T12:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076650266481631489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1901639919308820480",
+              "start": 0,
+              "username": "Miyuki__ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076650266481631489",
+        "in_reply_to_user_id": "1901639919308820480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076640955323789715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miyuki__ii 这个女孩太萌了呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076640937330257920",
+            "3_2076640937326063616"
+          ]
+        },
+        "author_id": "1901639919308820480",
+        "conversation_id": "2076640955323789715",
+        "created_at": "2026-07-13T12:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076640955323789715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/arAR3hn7s9",
+              "end": 31,
+              "expanded_url": "https://x.com/Miyuki__ii/status/2076640955323789715/photo/1",
+              "media_key": "3_2076640937330257920",
+              "start": 8,
+              "url": "https://t.co/arAR3hn7s9"
+            },
+            {
+              "display_url": "pic.x.com/arAR3hn7s9",
+              "end": 31,
+              "expanded_url": "https://x.com/Miyuki__ii/status/2076640955323789715/photo/1",
+              "media_key": "3_2076640937326063616",
+              "start": 8,
+              "url": "https://t.co/arAR3hn7s9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076640955323789715",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "旧照片新发一遍 https://t.co/arAR3hn7s9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 116,
+          "like_count": 1580,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T14:21:44.000Z",
+        "description": "天秤座 istp \n喜欢Metal 啤酒 \n喜欢看书看电影 可以一起来交流 \n有🚪 纯绿\n小号@Rikoar3r （只关注好友\n欢迎来提问https://t.co/IqvPpSHH7l",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "Rikoar3r"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/miyuki80391",
+                "end": 92,
+                "expanded_url": "https://ngl.link/miyuki80391",
+                "start": 69,
+                "url": "https://t.co/IqvPpSHH7l"
+              }
+            ]
+          }
+        },
+        "id": "1901639919308820480",
+        "location": "猫",
+        "name": "刚塞被屁崩出",
+        "pinned_tweet_id": "1957792894594503012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071512312738205696/KD9-0gyq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3022,
+          "following_count": 172,
+          "like_count": 7226,
+          "listed_count": 3,
+          "media_count": 495,
+          "tweet_count": 1419
+        },
+        "url": "",
+        "username": "Miyuki__ii",
+        "verified": false
+      }
+    ]
+  }
+}

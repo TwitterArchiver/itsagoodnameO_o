@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2077451529725063302",
+    "created_at": "2026-07-15T18:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T19:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077454903191249228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2075650622398095360",
+          "start": 0,
+          "username": "crispupovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077454903191249228",
+    "in_reply_to_user_id": "2075650622398095360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077454739856625695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crispupovo 好呀好呀我试试好了(^^)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2077451529725063302",
+        "created_at": "2026-07-15T18:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077454903191249228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2075650622398095360",
+              "start": 0,
+              "username": "crispupovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077454903191249228",
+        "in_reply_to_user_id": "2075650622398095360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077454739856625695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crispupovo 好呀好呀我试试好了(^^)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075650622398095360",
+        "conversation_id": "2077451529725063302",
+        "created_at": "2026-07-15T18:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T19:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077454739856625695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077454739856625695",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077453018841382990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 感觉可以从最低剂量的开始先试试，我胃之前就不好来着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 128,
+          "like_count": 1631,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 379
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-10T18:43:18.000Z",
+        "description": "",
+        "id": "2075650622398095360",
+        "name": "wpainu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077448443900092416/mifPSXIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 16,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "crispupovo",
+        "verified": false
+      }
+    ]
+  }
+}

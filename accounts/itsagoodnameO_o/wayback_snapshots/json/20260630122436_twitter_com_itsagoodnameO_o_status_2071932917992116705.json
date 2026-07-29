@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2071932917992116705",
+    "created_at": "2026-06-30T12:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071932917992116705"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071932917992116705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我每次磕药的时候都在动脑中。想到了很多好玩的想法或者是想到了好有道理的话都来不及记下来，要是记下来了，我不就成爱因斯坦了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2071932917992116705",
+        "created_at": "2026-06-30T12:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071932917992116705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071932917992116705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每次磕药的时候都在动脑中。想到了很多好玩的想法或者是想到了好有道理的话都来不及记下来，要是记下来了，我不就成爱因斯坦了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071229889160880128/puKik6XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 91,
+          "like_count": 1534,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

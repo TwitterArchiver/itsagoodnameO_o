@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2064511890395722222",
+    "created_at": "2026-06-10T00:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T01:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064511890395722222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "860208763420250112",
+          "start": 3,
+          "username": "MalditaSummer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064511890395722222",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2620
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064000780718215481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MalditaSummer: Estoy en la edad en que me doy cuenta que mi mamá realmente necesitaba que ese pollo estuviera descongelado cuando llega…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2064511890395722222",
+        "created_at": "2026-06-10T00:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064511890395722222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "860208763420250112",
+              "start": 3,
+              "username": "MalditaSummer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064511890395722222",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2620
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064000780718215481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MalditaSummer: Estoy en la edad en que me doy cuenta que mi mamá realmente necesitaba que ese pollo estuviera descongelado cuando llega…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "860208763420250112",
+        "conversation_id": "2064000780718215481",
+        "created_at": "2026-06-08T15:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064000780718215481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064000780718215481",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 458283,
+          "like_count": 28739,
+          "quote_count": 62,
+          "reply_count": 70,
+          "retweet_count": 2620
+        },
+        "reply_settings": "everyone",
+        "text": "Estoy en la edad en que me doy cuenta que mi mamá realmente necesitaba que ese pollo estuviera descongelado cuando llegaba del trabajo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 84,
+          "like_count": 1503,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 186
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-04T19:05:25.000Z",
+        "description": "Iba a poner algo bonito pero me dio flojera. #Publicidad DM 📩",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 45,
+                "tag": "Publicidad"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/MalditaSummer/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/MalditaSummer/",
+                "start": 0,
+                "url": "https://t.co/pTvT7o3jW9"
+              }
+            ]
+          }
+        },
+        "id": "860208763420250112",
+        "location": "México",
+        "name": "Maldita Summer",
+        "pinned_tweet_id": "1310038210064642048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/981029025157140480/EzQvS3Za_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501036,
+          "following_count": 980,
+          "like_count": 5372,
+          "listed_count": 249,
+          "media_count": 3073,
+          "tweet_count": 64705
+        },
+        "url": "https://t.co/pTvT7o3jW9",
+        "username": "MalditaSummer",
+        "verified": true
+      }
+    ]
+  }
+}

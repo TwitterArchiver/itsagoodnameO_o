@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2016738424926196203",
+    "created_at": "2026-01-29T13:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T14:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016871020704203127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1680544465671561216",
+          "start": 0,
+          "username": "LXL0102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016871020704203127",
+    "in_reply_to_user_id": "1680544465671561216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016738424926196203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LXL0102 想死就去跳樓，發這些很煩。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2016738424926196203",
+        "created_at": "2026-01-29T13:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016871020704203127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1680544465671561216",
+              "start": 0,
+              "username": "LXL0102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016871020704203127",
+        "in_reply_to_user_id": "1680544465671561216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016738424926196203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LXL0102 想死就去跳樓，發這些很煩。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680544465671561216",
+        "conversation_id": "2016738424926196203",
+        "created_at": "2026-01-29T05:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T06:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016738424926196203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016738424926196203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1917,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近发现一群低龄抑郁症群体说od和ty不同，od是吸毒吞药是自杀，都想自杀了吞你那抗抑郁药能死掉吗，吞个几十粒然后去医院洗胃，拍个照发抖音说自己想死，一群人在底下安慰，和你们想死的说一下哈，吞安眠药死不掉的，想死直接从20楼跳下去，直接喝农药，别假惺惺说想死其实只是想博眼球让大家安慰你🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 80,
+          "like_count": 1288,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 111
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013254845927448576/hk3hzYZt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1725,
+          "following_count": 276,
+          "like_count": 1631,
+          "listed_count": 5,
+          "media_count": 610,
+          "tweet_count": 3436
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

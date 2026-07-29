@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2019408688977719775",
+    "created_at": "2026-02-05T13:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T14:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019408688977719775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0xathenalee/st…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/0xathenalee/status/2019241932669743445",
+          "start": 11,
+          "url": "https://t.co/PyP64XIxHT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019408688977719775",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019241932669743445",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊啊啊啊啊啊啊啊啊啊 https://t.co/PyP64XIxHT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2019408688977719775",
+        "created_at": "2026-02-05T13:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T14:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019408688977719775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xathenalee/st…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/0xathenalee/status/2019241932669743445",
+              "start": 11,
+              "url": "https://t.co/PyP64XIxHT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019408688977719775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019241932669743445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊啊啊啊啊 https://t.co/PyP64XIxHT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1354812106520977409",
+        "conversation_id": "2019241932669743445",
+        "created_at": "2026-02-05T02:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T03:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019241932669743445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019241932669743445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 78508,
+          "like_count": 896,
+          "quote_count": 8,
+          "reply_count": 42,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "一下雪 \n北京又变成了北平 \n南京又变成了金陵\n 而谷爱凌又变成了中国人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 81,
+          "like_count": 1343,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 137
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-28T15:22:41.000Z",
+        "description": "🇭🇰🇯🇵 Product | Writer | Investor | Content Creator | Prev CEX, bytedance | Podcast: @FOMO__Radio #AI IG: athenaislee 账号不垂直，记录人间思考✍️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 97,
+                "tag": "AI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 84,
+                "username": "FOMO__Radio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/athenali",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/athenali",
+                "start": 0,
+                "url": "https://t.co/apsPBfgkm3"
+              }
+            ]
+          }
+        },
+        "id": "1354812106520977409",
+        "location": "B612",
+        "name": "Athena",
+        "pinned_tweet_id": "1896032627196641601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793152329732198401/sKAzYzVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6889,
+          "following_count": 1222,
+          "like_count": 8094,
+          "listed_count": 78,
+          "media_count": 720,
+          "tweet_count": 6613
+        },
+        "url": "https://t.co/apsPBfgkm3",
+        "username": "0xathenalee",
+        "verified": true
+      }
+    ]
+  }
+}

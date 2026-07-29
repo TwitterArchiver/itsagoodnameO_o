@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "1952717221874352455",
+    "created_at": "2025-08-05T13:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T14:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952717221874352455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "44299475",
+          "start": 3,
+          "username": "MianMaoKu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952717221874352455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952594153843609800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MianMaoKu: 每天打开推特就很气愤，\n每天都要默念：“中国那些破事不关我事，不关我事，不关我事。”\n虽然但是，还是很气愤。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "1952717221874352455",
+        "created_at": "2025-08-05T13:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T14:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952717221874352455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "44299475",
+              "start": 3,
+              "username": "MianMaoKu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952717221874352455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952594153843609800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MianMaoKu: 每天打开推特就很气愤，\n每天都要默念：“中国那些破事不关我事，不关我事，不关我事。”\n虽然但是，还是很气愤。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "44299475",
+        "conversation_id": "1952594153843609800",
+        "created_at": "2025-08-05T04:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T05:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952594153843609800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952594153843609800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7417,
+          "like_count": 156,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "每天打开推特就很气愤，\n每天都要默念：“中国那些破事不关我事，不关我事，不关我事。”\n虽然但是，还是很气愤。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "我操坏事都是美国干的我恨你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 55,
+          "like_count": 636,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 57
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-03T05:15:23.000Z",
+        "description": "别fo我，我说话可难听了。",
+        "id": "44299475",
+        "name": "MMK",
+        "pinned_tweet_id": "1857872638590455975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940233006888660992/vN6u3CMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43420,
+          "following_count": 1069,
+          "like_count": 1509,
+          "listed_count": 280,
+          "media_count": 3909,
+          "tweet_count": 98651
+        },
+        "username": "MianMaoKu",
+        "verified": false
+      }
+    ]
+  }
+}

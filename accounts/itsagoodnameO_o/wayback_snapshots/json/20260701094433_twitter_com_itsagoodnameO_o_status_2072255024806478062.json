@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072255013859340288"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072255024806478062",
+    "created_at": "2026-07-01T09:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T10:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072255024806478062"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XAkdKnqRS0",
+          "end": 35,
+          "expanded_url": "https://x.com/itsagoodnameO_o/status/2072255024806478062/photo/1",
+          "media_key": "3_2072255013859340288",
+          "start": 12,
+          "url": "https://t.co/XAkdKnqRS0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072255024806478062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真是一场酣畅淋漓的复健 https://t.co/XAkdKnqRS0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2072255013859340288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIg9LEbsAAc0GG.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072255013859340288"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072255024806478062",
+        "created_at": "2026-07-01T09:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072255024806478062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XAkdKnqRS0",
+              "end": 35,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2072255024806478062/photo/1",
+              "media_key": "3_2072255013859340288",
+              "start": 12,
+              "url": "https://t.co/XAkdKnqRS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072255024806478062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真是一场酣畅淋漓的复健 https://t.co/XAkdKnqRS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071229889160880128/puKik6XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 91,
+          "like_count": 1537,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

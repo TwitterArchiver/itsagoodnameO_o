@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2019007310065209397",
+    "created_at": "2026-02-04T11:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T12:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019007310065209397"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OVOTVTOVO_3/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/OVOTVTOVO_3/status/2018603270827294995",
+          "start": 6,
+          "url": "https://t.co/yijQf7Puhl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019007310065209397",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018603270827294995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "沒錯，握草 https://t.co/yijQf7Puhl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2019007310065209397",
+        "created_at": "2026-02-04T11:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T12:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019007310065209397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OVOTVTOVO_3/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/OVOTVTOVO_3/status/2018603270827294995",
+              "start": 6,
+              "url": "https://t.co/yijQf7Puhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019007310065209397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018603270827294995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沒錯，握草 https://t.co/yijQf7Puhl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2018603270827294995",
+        "created_at": "2026-02-03T08:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T09:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018603270827294995"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018603270827294995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 26103,
+          "like_count": 285,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "凭什么生棉花娃娃不能领育儿补贴这句话真的很诡异 感觉和在科普孕育有多艰辛的视频下面晒自己棉花娃娃的是同一批人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 80,
+          "like_count": 1332,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 135
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？？？",
+        "id": "1829229897195368455",
+        "name": "用户2778",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014729781477310470/GDBRMlnk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 34,
+          "like_count": 793,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1364
+        },
+        "username": "OVOTVTOVO_3",
+        "verified": false
+      }
+    ]
+  }
+}

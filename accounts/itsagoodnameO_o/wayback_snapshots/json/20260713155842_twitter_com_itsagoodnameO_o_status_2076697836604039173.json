@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2076691676693971378",
+    "created_at": "2026-07-13T15:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T16:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076697836604039173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1561806114274287616",
+          "start": 0,
+          "username": "crossyangshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076697836604039173",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076691676693971378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crossyangshe 不要死az"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2293,
+        "media_key": "3_2076690556017938432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHjDtPbkAA_v-v.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2076690569506758656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHjEffaoAAEPgd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2076691676693971378",
+        "created_at": "2026-07-13T15:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076697836604039173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076697836604039173",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076691676693971378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 不要死az"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076690556017938432",
+            "3_2076690569506758656"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2076691676693971378",
+        "created_at": "2026-07-13T15:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T16:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076691676693971378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcEyDVEHkD",
+              "end": 161,
+              "expanded_url": "https://x.com/crossyangshe/status/2076691676693971378/photo/1",
+              "media_key": "3_2076690556017938432",
+              "start": 138,
+              "url": "https://t.co/NcEyDVEHkD"
+            },
+            {
+              "display_url": "pic.x.com/NcEyDVEHkD",
+              "end": 161,
+              "expanded_url": "https://x.com/crossyangshe/status/2076691676693971378/photo/1",
+              "media_key": "3_2076690569506758656",
+              "start": 138,
+              "url": "https://t.co/NcEyDVEHkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076691676693971378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 157,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天在河边坐了好久好久，下面的水又深又黑了，一边哭一边盯着下面看，最后没有勇气还是回去了，在厕所把自己割的一片狼藉全是血迹，发出来怕又把az帖子删了，突然收到了留言，真的是特别感谢泥呀😭😭😭想起来明天普瑞就能到了，打算给大家测一条高剂量下普瑞的反应之后再看打算吧呜呜呜X﹏X https://t.co/NcEyDVEHkD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不线下",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072340905965805568/Md_mPzyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 116,
+          "like_count": 1581,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 335
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推喜欢的东西太多啦\n同类群1053339675\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "失乐园",
+        "name": "AZ.",
+        "pinned_tweet_id": "2075487277191733409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 418,
+          "like_count": 2794,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 802
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

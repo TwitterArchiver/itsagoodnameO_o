@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2019678020609667432",
+    "created_at": "2026-02-06T07:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T08:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019679550452674590"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019679550452674590",
+    "in_reply_to_user_id": "1653266334619402245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019678020609667432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哎我完全沒有這個記憶了。。我都不記得我高中發生的特別特別多事情。和高中朋友出去聊天我說的最多的一句話肯定是真的假的我一點也不記得了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2019678020609667432",
+        "created_at": "2026-02-06T07:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T08:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019679550452674590"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019679550452674590",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019678020609667432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎我完全沒有這個記憶了。。我都不記得我高中發生的特別特別多事情。和高中朋友出去聊天我說的最多的一句話肯定是真的假的我一點也不記得了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2019678020609667432",
+        "created_at": "2026-02-06T07:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T08:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019678020609667432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019678020609667432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前幾天和朋友見面，我說我不是同性戀，我是完完全全的異性戀。，一個女生說我高中和她親過嘴，另一個女生說我喝多了邀請她和我做愛。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 81,
+          "like_count": 1348,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 141
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

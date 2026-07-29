@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2071240826999722482",
+    "created_at": "2026-06-28T14:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071240826999722482"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071240826999722482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我被害妄想突然一下严重了起来。没锁门害怕别人来杀我。锁了门害怕房东有钥匙来杀我。不知道咋办。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2071240826999722482",
+        "created_at": "2026-06-28T14:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071240826999722482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071240826999722482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我被害妄想突然一下严重了起来。没锁门害怕别人来杀我。锁了门害怕房东有钥匙来杀我。不知道咋办。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071229889160880128/puKik6XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 89,
+          "like_count": 1527,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

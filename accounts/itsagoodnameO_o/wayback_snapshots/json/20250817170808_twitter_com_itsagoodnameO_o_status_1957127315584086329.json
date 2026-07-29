@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "1925752998409412618",
+    "created_at": "2025-08-17T17:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T18:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957127315584086329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1524237282680705024",
+          "start": 0,
+          "username": "Thec0mmunity18"
+        },
+        {
+          "end": 29,
+          "id": "1625491529384222725",
+          "start": 16,
+          "username": "Kuroinu_0111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957127315584086329",
+    "in_reply_to_user_id": "1524237282680705024",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934434126758592758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thec0mmunity18 @Kuroinu_0111 Chinese website"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "1925752998409412618",
+        "created_at": "2025-08-17T17:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T18:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957127315584086329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1524237282680705024",
+              "start": 0,
+              "username": "Thec0mmunity18"
+            },
+            {
+              "end": 29,
+              "id": "1625491529384222725",
+              "start": 16,
+              "username": "Kuroinu_0111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957127315584086329",
+        "in_reply_to_user_id": "1524237282680705024",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934434126758592758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thec0mmunity18 @Kuroinu_0111 Chinese website"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1524237282680705024",
+        "conversation_id": "1925752998409412618",
+        "created_at": "2025-06-16T02:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T03:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934434126758592758"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "bunny",
+              "probability": 0.4359,
+              "start": 36,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1625491529384222725",
+              "start": 0,
+              "username": "Kuroinu_0111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934434126758592758",
+        "in_reply_to_user_id": "1625491529384222725",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925752998409412618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuroinu_0111 Where did you get the bunny plush?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "hi",
+        "id": "1653266334619402245",
+        "name": "我操坏事都是美国干的我恨你",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653267101489172484/7t9_zwSC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 57,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 58
+        },
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T04:06:32.000Z",
+        "description": "Hi\nHe/him\nShedtwt & edtwt",
+        "id": "1524237282680705024",
+        "name": "꒰ঌBunni໒꒱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934888361812013056/Pbfk0OHa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 66,
+          "like_count": 1114,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 390
+        },
+        "username": "Thec0mmunity18",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-14T13:46:14.000Z",
+        "description": "お菓子みたいなあまいブランド/日常/𝜗𝜚君の特別。 ———⚠No Unauthorized Reproduction/「ぴんくのあしあと。」—————-店長くろいぬ。作品はハイライトに載せてます。不定期に通販してますshop→ https://t.co/ytVIwAzrWO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "asiato26.base.shop",
+                "end": 137,
+                "expanded_url": "https://asiato26.base.shop/",
+                "start": 114,
+                "url": "https://t.co/ytVIwAzrWO"
+              }
+            ]
+          }
+        },
+        "id": "1625491529384222725",
+        "location": "ハッピーないぬ小屋",
+        "name": "くぬ",
+        "pinned_tweet_id": "1956720381160726579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925757965442732032/DzSLj_qP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9650,
+          "following_count": 88,
+          "like_count": 10738,
+          "listed_count": 43,
+          "media_count": 469,
+          "tweet_count": 3609
+        },
+        "username": "Kuroinu_0111",
+        "verified": false
+      }
+    ]
+  }
+}
