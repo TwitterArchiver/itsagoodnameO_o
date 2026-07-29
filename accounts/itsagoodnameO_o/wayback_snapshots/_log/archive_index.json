@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-29T21:35:47",
+  "last_updated": "2026-07-29T21:36:08",
   "html": {
     "https://web.archive.org/web/20250103163239if_/https://twitter.com/itsagoodnameO_o/status/1875218730290176472": {
       "status": "done",
@@ -3673,9 +3673,9 @@
       "referenced_by": [
         "20250417115458_twitter_com_itsagoodnameO_o_status_1912837184790667578.json"
       ],
-      "last_updated": "2026-07-29T21:29:22",
+      "last_updated": "2026-07-29T21:36:03",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250417115458/https://video.twimg.com/tweet_video/Gomp4WRWcAA1gEt.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1930530830595891200/vid/avc1/480x848/pgWfjuBL0AI3LI6Z.mp4": {
       "status": "done",
@@ -3745,9 +3745,9 @@
       "referenced_by": [
         "20260628143651_twitter_com_itsagoodnameO_o_status_2071241420850266289.json"
       ],
-      "last_updated": "2026-07-29T21:29:22",
+      "last_updated": "2026-07-29T21:36:05",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260628143651/https://video.twimg.com/ext_tw_video/2071235415403868160/pu/vid/avc1/720x1280/02Hq-KvCWP6yfmhP.mp4?tag=12",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/ext_tw_video/2072992532355768320/pu/vid/avc1/720x1280/nihNbuSqaFnmBx60.mp4?tag=12": {
       "status": "done",
@@ -3768,9 +3768,9 @@
       "referenced_by": [
         "20260711062257_twitter_com_itsagoodnameO_o_status_2075828169429684639.json"
       ],
-      "last_updated": "2026-07-29T21:23:38",
+      "last_updated": "2026-07-29T21:36:08",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260711062257/https://video.twimg.com/ext_tw_video/2075608527268438016/pu/vid/avc1/720x1280/rIwTAqdlsxxSyt-T.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2079802895286087682/pu/vid/avc1/720x1280/FBw7DMiBkuiVr4nN.mp4?tag=12": {
       "status": "done",
