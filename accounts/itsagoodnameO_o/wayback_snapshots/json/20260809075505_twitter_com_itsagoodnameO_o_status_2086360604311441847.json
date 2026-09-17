@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2086060925673726083",
+    "created_at": "2026-08-09T07:55:05.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T08:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086360604311441847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1449687493712908290",
+          "start": 0,
+          "username": "yuchouu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086360604311441847",
+    "in_reply_to_user_id": "1449687493712908290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086345112091861463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuchouu 不用处方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2086060925673726083",
+        "created_at": "2026-08-09T07:55:05.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T08:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086360604311441847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1449687493712908290",
+              "start": 0,
+              "username": "yuchouu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086360604311441847",
+        "in_reply_to_user_id": "1449687493712908290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086345112091861463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuchouu 不用处方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449687493712908290",
+        "conversation_id": "2086060925673726083",
+        "created_at": "2026-08-09T06:53:31.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086345112091861463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086345112091861463",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086060925673726083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 咋开的处方"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086360604311441847",
+        "name": "一週裡最討厭週二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653266334619402245/1782654874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083236916582109184/N85wlBhm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 135,
+          "like_count": 2053,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 586
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-17T10:43:33.000Z",
+        "description": "🇲🇴マカオ住み| 福丸うさfan💛|繁體中文⭕️ Eng⭕️ 日本語🚫｜",
+        "id": "1449687493712908290",
+        "is_identity_verified": false,
+        "location": "Macau",
+        "most_recent_tweet_id": "2086345599981634032",
+        "name": "クロエって呼んで",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1449687493712908290/1743337306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933102768258179072/j6JPhxmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 254,
+          "like_count": 496,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 624
+        },
+        "url": "",
+        "username": "yuchouu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

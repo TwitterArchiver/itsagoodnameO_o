@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083409923149639681",
+        "3_2083409923162132480",
+        "3_2083409923145379840"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "conversation_id": "2083409929273270596",
+    "created_at": "2026-08-01T04:30:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083409929273270596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y57lQ2XuJi",
+          "end": 23,
+          "expanded_url": "https://x.com/itsagoodnameO_o/status/2083409929273270596/photo/1",
+          "media_key": "3_2083409923149639681",
+          "start": 0,
+          "url": "https://t.co/y57lQ2XuJi"
+        },
+        {
+          "display_url": "pic.x.com/y57lQ2XuJi",
+          "end": 23,
+          "expanded_url": "https://x.com/itsagoodnameO_o/status/2083409929273270596/photo/1",
+          "media_key": "3_2083409923162132480",
+          "start": 0,
+          "url": "https://t.co/y57lQ2XuJi"
+        },
+        {
+          "display_url": "pic.x.com/y57lQ2XuJi",
+          "end": 23,
+          "expanded_url": "https://x.com/itsagoodnameO_o/status/2083409929273270596/photo/1",
+          "media_key": "3_2083409923145379840",
+          "start": 0,
+          "url": "https://t.co/y57lQ2XuJi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083409929273270596",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/y57lQ2XuJi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083409923149639681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnCSWbbsAEZp5c.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083409923162132480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnCSWeaUAAnlpt.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083409923145379840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnCSWaasAAdF5b.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083409923149639681",
+            "3_2083409923162132480",
+            "3_2083409923145379840"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "conversation_id": "2083409929273270596",
+        "created_at": "2026-08-01T04:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083409929273270596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y57lQ2XuJi",
+              "end": 23,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2083409929273270596/photo/1",
+              "media_key": "3_2083409923149639681",
+              "start": 0,
+              "url": "https://t.co/y57lQ2XuJi"
+            },
+            {
+              "display_url": "pic.x.com/y57lQ2XuJi",
+              "end": 23,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2083409929273270596/photo/1",
+              "media_key": "3_2083409923162132480",
+              "start": 0,
+              "url": "https://t.co/y57lQ2XuJi"
+            },
+            {
+              "display_url": "pic.x.com/y57lQ2XuJi",
+              "end": 23,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2083409929273270596/photo/1",
+              "media_key": "3_2083409923145379840",
+              "start": 0,
+              "url": "https://t.co/y57lQ2XuJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083409929273270596",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/y57lQ2XuJi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083236916582109184/N85wlBhm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 134,
+          "like_count": 1970,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 551
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      }
+    ]
+  }
+}

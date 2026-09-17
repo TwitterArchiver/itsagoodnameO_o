@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093576589200310272"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2093576603800662167",
+    "created_at": "2026-08-29T05:48:53.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T06:48:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093576603800662167"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TnUSj4E4Qy",
+          "end": 23,
+          "expanded_url": "https://x.com/itsagoodnameO_o/status/2093576603800662167/photo/1",
+          "media_key": "3_2093576589200310272",
+          "start": 0,
+          "url": "https://t.co/TnUSj4E4Qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093576603800662167",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2093576589200310272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/TnUSj4E4Qy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093576589200310272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3g0M1bwAA94Ie.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093576589200310272"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2093576603800662167",
+        "created_at": "2026-08-29T05:48:53.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093576603800662167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TnUSj4E4Qy",
+              "end": 23,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2093576603800662167/photo/1",
+              "media_key": "3_2093576589200310272",
+              "start": 0,
+              "url": "https://t.co/TnUSj4E4Qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093576603800662167",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2093576589200310272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TnUSj4E4Qy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093576603800662167",
+        "name": "一週裡最討厭週二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653266334619402245/1782654874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090008285235814400/M6G6HdOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 137,
+          "like_count": 2193,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 653
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

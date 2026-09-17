@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2093027786302898594",
+    "created_at": "2026-08-28T00:07:11.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T01:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093128223999905832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1561806114274287616",
+          "start": 0,
+          "username": "crossyangshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093128223999905832",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093027786302898594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crossyangshe az好帅！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2093027662797393920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvtkeoa0AADqOX.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2093027665842475008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvtkp-bEAARE_O.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2093027665846616064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvtkp_aQAA-AoD.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2093027786302898594",
+        "created_at": "2026-08-28T00:07:11.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T01:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093128223999905832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093128223999905832",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093027786302898594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe az好帅！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093027662797393920",
+            "3_2093027665842475008",
+            "3_2093027665846616064"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2093027786302898594",
+        "created_at": "2026-08-27T17:28:05.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093027786302898594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ESk0sLsjU7",
+              "end": 44,
+              "expanded_url": "https://x.com/crossyangshe/status/2093027786302898594/photo/1",
+              "media_key": "3_2093027662797393920",
+              "start": 21,
+              "url": "https://t.co/ESk0sLsjU7"
+            },
+            {
+              "display_url": "pic.x.com/ESk0sLsjU7",
+              "end": 44,
+              "expanded_url": "https://x.com/crossyangshe/status/2093027786302898594/photo/1",
+              "media_key": "3_2093027665842475008",
+              "start": 21,
+              "url": "https://t.co/ESk0sLsjU7"
+            },
+            {
+              "display_url": "pic.x.com/ESk0sLsjU7",
+              "end": 44,
+              "expanded_url": "https://x.com/crossyangshe/status/2093027786302898594/photo/1",
+              "media_key": "3_2093027665846616064",
+              "start": 21,
+              "url": "https://t.co/ESk0sLsjU7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093027786302898594",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093027662797393920"
+          },
+          {
+            "media_key": "3_2093027665842475008"
+          },
+          {
+            "media_key": "3_2093027665846616064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 732,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会有人看嘛……AZ酱一直以来都不自信来着 https://t.co/ESk0sLsjU7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093128223999905832",
+        "name": "一週裡最討厭週二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653266334619402245/1782654874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090008285235814400/M6G6HdOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 135,
+          "like_count": 2165,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 642
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你們好呀，我是az！成分：重抑中焦/od/自傷/自殺念頭/infp-t/音遊/二游（不怎麼玩了）/端遊/最喜欢的作家是太宰治\n目前打算回归现实生活了，我真的希望陷入深渊的所有人都可以摆脱苦难，哪怕很难，但是我想试一下，要战胜逆流河，我多么无比渴望现实的美好，哪怕很难",
+        "id": "1561806114274287616",
+        "is_identity_verified": false,
+        "location": "長沙",
+        "most_recent_tweet_id": "2093041813640859765",
+        "name": "AZ.",
+        "pinned_tweet_id": "2085780050759328158",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1561806114274287616/1786474392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 602,
+          "like_count": 5848,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 1417
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

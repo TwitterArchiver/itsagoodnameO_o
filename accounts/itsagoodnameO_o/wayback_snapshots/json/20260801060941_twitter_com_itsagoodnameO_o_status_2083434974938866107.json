@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2083409929273270596",
+    "created_at": "2026-08-01T06:09:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083434974938866107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2063830222646947840",
+          "start": 0,
+          "username": "6TheGemini15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083434974938866107",
+    "in_reply_to_user_id": "2063830222646947840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083434194349219952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6TheGemini15 原来是这样！我第一次玩这个！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2083409929273270596",
+        "created_at": "2026-08-01T06:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083434974938866107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2063830222646947840",
+              "start": 0,
+              "username": "6TheGemini15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083434974938866107",
+        "in_reply_to_user_id": "2063830222646947840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083434194349219952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6TheGemini15 原来是这样！我第一次玩这个！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063830222646947840",
+        "conversation_id": "2083409929273270596",
+        "created_at": "2026-08-01T06:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083434194349219952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083434194349219952",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083409929273270596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 宝宝呀 标有sent with NGL team是软件里系统发的 不是真人呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083236916582109184/N85wlBhm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 134,
+          "like_count": 1973,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 553
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-08T03:49:51.000Z",
+        "description": "没有门 不加任何任何其他sns！\n不约不卡不恋爱不线下 推止推\n私信摩多摩多 有礼貌我都会回复🥰",
+        "id": "2063830222646947840",
+        "location": "上海",
+        "name": "你不要再哭了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067917424452636672/6TvOAtMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 112,
+          "like_count": 1929,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 677
+        },
+        "url": "",
+        "username": "6TheGemini15",
+        "verified": false
+      }
+    ]
+  }
+}

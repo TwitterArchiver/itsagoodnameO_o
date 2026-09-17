@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2096029058261987367",
+    "created_at": "2026-09-05T00:14:04.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T01:14:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096029058261987367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/really59763582…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/really59763582/status/2095788901390848252",
+          "start": 6,
+          "url": "https://t.co/dasjrKmTdE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096029058261987367",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095788901390848252",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我接接接接 https://t.co/dasjrKmTdE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 441,
+        "media_key": "3_2095788886245179392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRW841jbAAA2Wq1.jpg",
+        "width": 472
+      },
+      {
+        "height": 1416,
+        "media_key": "3_2095788809061621760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRW80WBbYAACPFz.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2096029058261987367",
+        "created_at": "2026-09-05T00:14:04.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T01:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096029058261987367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/really59763582…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/really59763582/status/2095788901390848252",
+              "start": 6,
+              "url": "https://t.co/dasjrKmTdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096029058261987367",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095788901390848252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我接接接接 https://t.co/dasjrKmTdE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095788886245179392",
+            "3_2095788809061621760"
+          ]
+        },
+        "author_id": "1573939488564604928",
+        "conversation_id": "2095788901390848252",
+        "created_at": "2026-09-04T08:19:46.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095788901390848252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/19Gor0hzae",
+              "end": 32,
+              "expanded_url": "https://x.com/Really59763582/status/2095788901390848252/photo/1",
+              "media_key": "3_2095788886245179392",
+              "start": 9,
+              "url": "https://t.co/19Gor0hzae"
+            },
+            {
+              "display_url": "pic.x.com/19Gor0hzae",
+              "end": 32,
+              "expanded_url": "https://x.com/Really59763582/status/2095788901390848252/photo/1",
+              "media_key": "3_2095788809061621760",
+              "start": 9,
+              "url": "https://t.co/19Gor0hzae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095788901390848252",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095788886245179392"
+          },
+          {
+            "media_key": "3_2095788809061621760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 32878,
+          "like_count": 300,
+          "quote_count": 22,
+          "reply_count": 289,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "我只接受这种霸道 https://t.co/19Gor0hzae"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096029058261987367",
+        "name": "一週裡最討厭週二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653266334619402245/1782654874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095910545060986880/tl54fUTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 137,
+          "like_count": 2269,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 674
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-25T07:37:06.000Z",
+        "description": "骂我反弹/不线下/推广自辨 匿名：https://t.co/Hz6mCp3oBb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/really597635821",
+                "end": 40,
+                "expanded_url": "https://ngl.link/really597635821",
+                "start": 17,
+                "url": "https://t.co/Hz6mCp3oBb"
+              }
+            ]
+          }
+        },
+        "id": "1573939488564604928",
+        "is_identity_verified": false,
+        "location": "🚪288/520/1314",
+        "most_recent_tweet_id": "2095953746383737298",
+        "name": "芋泥麻薯蛋挞",
+        "pinned_tweet_id": "2092624010710573106",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1573939488564604928/1734468615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092033531841253376/RLDXEFrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24339,
+          "following_count": 176,
+          "like_count": 4421,
+          "listed_count": 55,
+          "media_count": 194,
+          "tweet_count": 3267
+        },
+        "url": "",
+        "username": "Really59763582",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

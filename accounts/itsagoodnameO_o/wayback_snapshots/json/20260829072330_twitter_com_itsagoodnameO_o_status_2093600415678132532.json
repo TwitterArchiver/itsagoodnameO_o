@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2093600415678132532",
+    "created_at": "2026-08-29T07:23:30.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T08:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093600415678132532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935725459658125312",
+          "start": 3,
+          "username": "XKDMW401"
+        },
+        {
+          "end": 25,
+          "id": "1872649945930743808",
+          "start": 14,
+          "username": "venus_komi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093600415678132532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093570442443563058",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XKDMW401: @venus_komi 妈的 这一群智障 我操 你们是他妈反串啊 还是先天的弱智啊 他妈的做个爱都能打上拳吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2093600415678132532",
+        "created_at": "2026-08-29T07:23:30.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T08:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093600415678132532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935725459658125312",
+              "start": 3,
+              "username": "XKDMW401"
+            },
+            {
+              "end": 25,
+              "id": "1872649945930743808",
+              "start": 14,
+              "username": "venus_komi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093600415678132532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093570442443563058",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XKDMW401: @venus_komi 妈的 这一群智障 我操 你们是他妈反串啊 还是先天的弱智啊 他妈的做个爱都能打上拳吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935725459658125312",
+        "conversation_id": "2093256808152600707",
+        "created_at": "2026-08-29T05:24:24.000Z",
+        "display_text_range": [
+          12,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093570442443563058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1872649945930743808",
+              "start": 0,
+              "username": "venus_komi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093570442443563058",
+        "in_reply_to_user_id": "1872649945930743808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1127,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093256808152600707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@venus_komi 妈的 这一群智障 我操 你们是他妈反串啊 还是先天的弱智啊 他妈的做个爱都能打上拳吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093600415678132532",
+        "name": "一週裡最討厭週二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653266334619402245/1782654874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090008285235814400/M6G6HdOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 137,
+          "like_count": 2195,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 655
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-19T15:45:03.000Z",
+        "description": "xdm 我已经放弃跟那些没开智的杂种讲道理了 而且我发现在推特骂傻逼贼他妈解压",
+        "id": "1935725459658125312",
+        "is_identity_verified": false,
+        "location": "在你心里🥰",
+        "most_recent_tweet_id": "2093570737659625864",
+        "name": "XKDMW😡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1935725459658125312/1779426725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056631064224059392/DiD7VTiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 117,
+          "like_count": 8390,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 3206
+        },
+        "url": "",
+        "username": "XKDMW401",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-27T14:25:21.000Z",
+        "description": "𝓁ℴ𝓈𝓉 𝒾𝓃 𝓇ℯ𝓋ℯ𝓇𝒾ℯ𝓈 〰️",
+        "id": "1872649945930743808",
+        "is_identity_verified": false,
+        "location": "你的附近",
+        "most_recent_tweet_id": "2093256808152600707",
+        "name": "𝓥𝓮𝓷𝓾𝓼",
+        "pinned_tweet_id": "2091076714864816364",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1872649945930743808/1736390232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976898493504798721/qYJzSSxn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36723,
+          "following_count": 0,
+          "like_count": 39,
+          "listed_count": 89,
+          "media_count": 76,
+          "tweet_count": 451
+        },
+        "url": "",
+        "username": "venus_komi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

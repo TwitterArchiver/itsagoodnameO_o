@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092915436329590785"
+      ]
+    },
+    "author_id": "1653266334619402245",
+    "conversation_id": "2092915445028577512",
+    "created_at": "2026-08-27T10:01:41.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T11:01:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092915445028577512"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aKdQP6rYVV",
+          "end": 48,
+          "expanded_url": "https://x.com/itsagoodnameO_o/status/2092915445028577512/photo/1",
+          "media_key": "3_2092915436329590785",
+          "start": 25,
+          "url": "https://t.co/aKdQP6rYVV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092915445028577512",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092915436329590785"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好想要这个电脑啊虽然买来没有任何用但是好想要啊 https://t.co/aKdQP6rYVV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092915436329590785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQuHgCdbYAEZg5L.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092915436329590785"
+          ]
+        },
+        "author_id": "1653266334619402245",
+        "conversation_id": "2092915445028577512",
+        "created_at": "2026-08-27T10:01:41.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092915445028577512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aKdQP6rYVV",
+              "end": 48,
+              "expanded_url": "https://x.com/itsagoodnameO_o/status/2092915445028577512/photo/1",
+              "media_key": "3_2092915436329590785",
+              "start": 25,
+              "url": "https://t.co/aKdQP6rYVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092915445028577512",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092915436329590785"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好想要这个电脑啊虽然买来没有任何用但是好想要啊 https://t.co/aKdQP6rYVV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092915445028577512",
+        "name": "一週裡最討厭週二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653266334619402245/1782654874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090008285235814400/M6G6HdOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 133,
+          "like_count": 2163,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 634
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

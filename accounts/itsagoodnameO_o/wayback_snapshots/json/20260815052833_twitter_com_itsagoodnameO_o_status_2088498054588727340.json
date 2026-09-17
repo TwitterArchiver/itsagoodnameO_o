@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2088297263206707625",
+    "created_at": "2026-08-15T05:28:33.000Z",
+    "display_text_range": [
+      7,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T06:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088498054588727340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1289715612978044928",
+          "start": 0,
+          "username": "77srl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088498054588727340",
+    "in_reply_to_user_id": "1289715612978044928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088297263206707625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77srl 如此便宜…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2510,
+        "media_key": "3_2088297255338209280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsfShnbcAANp4S.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2088297263206707625",
+        "created_at": "2026-08-15T05:28:33.000Z",
+        "display_text_range": [
+          7,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088498054588727340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1289715612978044928",
+              "start": 0,
+              "username": "77srl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088498054588727340",
+        "in_reply_to_user_id": "1289715612978044928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088297263206707625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77srl 如此便宜…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088297255338209280"
+          ]
+        },
+        "author_id": "1289715612978044928",
+        "conversation_id": "2088297263206707625",
+        "created_at": "2026-08-14T16:10:40.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088297263206707625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjYwD41Onf",
+              "end": 27,
+              "expanded_url": "https://x.com/77srl/status/2088297263206707625/photo/1",
+              "media_key": "3_2088297255338209280",
+              "start": 4,
+              "url": "https://t.co/kjYwD41Onf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088297263206707625",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088297255338209280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老资历 https://t.co/kjYwD41Onf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088498054588727340",
+        "name": "一週裡最討厭週二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653266334619402245/1782654874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083236916582109184/N85wlBhm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 137,
+          "like_count": 2090,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-02T00:12:26.000Z",
+        "description": "死在回忆里",
+        "id": "1289715612978044928",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2088297263206707625",
+        "name": "堇z",
+        "pinned_tweet_id": "1791256014333059160",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1289715612978044928/1684701552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793379496177135619/kdn7TJf8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 67,
+          "like_count": 4801,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 559
+        },
+        "url": "",
+        "username": "77srl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

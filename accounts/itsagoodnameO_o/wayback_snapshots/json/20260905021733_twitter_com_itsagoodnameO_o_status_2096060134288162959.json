@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2095999244629074382",
+    "created_at": "2026-09-05T02:17:33.000Z",
+    "display_text_range": [
+      9,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T03:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096060134288162959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2095811617405693954",
+          "start": 0,
+          "username": "nfzxhzx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096060134288162959",
+    "in_reply_to_user_id": "2095811617405693954",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096059657420935400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nfzxhzx 对呀好贵啊！我都没买几个游戏🥲🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2095999244629074382",
+        "created_at": "2026-09-05T02:17:33.000Z",
+        "display_text_range": [
+          9,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T03:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096060134288162959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2095811617405693954",
+              "start": 0,
+              "username": "nfzxhzx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096060134288162959",
+        "in_reply_to_user_id": "2095811617405693954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096059657420935400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nfzxhzx 对呀好贵啊！我都没买几个游戏🥲🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095811617405693954",
+        "conversation_id": "2095999244629074382",
+        "created_at": "2026-09-05T02:15:39.000Z",
+        "display_text_range": [
+          17,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T03:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096059657420935400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653266334619402245",
+              "start": 0,
+              "username": "itsagoodnameO_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096059657420935400",
+        "in_reply_to_user_id": "1653266334619402245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096029682487754997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsagoodnameO_o 任天堂游戏好贵哦   我买来就是为了买塞尔达的，虽然说第二部也没玩就是了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096060134288162959",
+        "name": "一週裡最討厭週二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653266334619402245/1782654874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095910545060986880/tl54fUTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 138,
+          "like_count": 2277,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 678
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-04T09:51:26.000Z",
+        "description": "😇神奇魔法解离商店😇\n出售超低价物质🥰\n pr   ISO   Allylescaline   酸奶葡萄以及促智剂的拼团",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/medsforushop",
+                "end": 23,
+                "expanded_url": "https://t.me/medsforushop",
+                "start": 0,
+                "url": "https://t.co/f9CEUVjkFQ"
+              }
+            ]
+          }
+        },
+        "id": "2095811617405693954",
+        "is_identity_verified": false,
+        "location": "魔法小猫国",
+        "most_recent_tweet_id": "2096059657420935400",
+        "name": "超级无敌魔法解离小猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095811617405693954/1788520251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095815007821017088/bJmH_6u4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 22,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/f9CEUVjkFQ",
+        "username": "nfzxhzx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

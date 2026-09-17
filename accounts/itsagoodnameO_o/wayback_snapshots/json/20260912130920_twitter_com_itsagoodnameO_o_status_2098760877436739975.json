@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2098760877436739975",
+    "created_at": "2026-09-12T13:09:20.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T14:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098760877436739975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2032416439433580544",
+          "start": 3,
+          "username": "Ceclleeee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098760877436739975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098421741064159687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ceclleeee: 如果我生在中国就会被中式霸凌 生在韩国就会被韩式霸凌 生在美国就会被美式霸凌 生在日本就会被日式霸凌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2098760877436739975",
+        "created_at": "2026-09-12T13:09:20.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098760877436739975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2032416439433580544",
+              "start": 3,
+              "username": "Ceclleeee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098760877436739975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098421741064159687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ceclleeee: 如果我生在中国就会被中式霸凌 生在韩国就会被韩式霸凌 生在美国就会被美式霸凌 生在日本就会被日式霸凌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032416439433580544",
+        "conversation_id": "2098421741064159687",
+        "created_at": "2026-09-11T14:41:44.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T15:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098421741064159687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098421741064159687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 46817,
+          "like_count": 1348,
+          "quote_count": 6,
+          "reply_count": 96,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "如果我生在中国就会被中式霸凌 生在韩国就会被韩式霸凌 生在美国就会被美式霸凌 生在日本就会被日式霸凌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098760877436739975",
+        "name": "一週裡最討厭週二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653266334619402245/1782654874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095910545060986880/tl54fUTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 139,
+          "like_count": 2278,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 696
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-13T11:25:39.000Z",
+        "description": "负能量 日常碎碎念",
+        "id": "2032416439433580544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098760822923149729",
+        "name": "ce",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032416439433580544/1775885566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042836703153655808/hX8ulYch_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 152,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "Ceclleeee",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

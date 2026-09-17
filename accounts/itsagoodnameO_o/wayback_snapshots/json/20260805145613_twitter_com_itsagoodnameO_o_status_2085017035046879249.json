@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2084945497526247689",
+    "created_at": "2026-08-05T14:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T15:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085017035046879249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085017035046879249",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084945497526247689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y 加油哦好好活下去！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2084945497526247689",
+        "created_at": "2026-08-05T14:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085017035046879249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085017035046879249",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084945497526247689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y 加油哦好好活下去！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904731881817735168",
+        "conversation_id": "2084945497526247689",
+        "created_at": "2026-08-05T10:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084945497526247689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084945497526247689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从今天起我不要割手哩...这样给我家人带来麻烦很多，大家心情都会变得很差劲。不要再为我吵架或者哭了。\n我已经没有在上学...家里面又很艰难，我也不想再给家人造成困扰...可以让我有家住当家里蹲，其实我已经好感激了，而且缝针要很多钱...我不想要再让我父母花钱 *ᴗ ᴗ)⁾⁾\n我知道有的时候我很任性...所以我不再闹了...如果我活到成年，可以找到自己的工作自己支付医疗费用，那时候再割手吧。\n从今天起不要再割了...绝对。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 387,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从今天起我不要割手哩...这样给我家人带来麻烦很多，大家心情都会变得很差劲。不要再为我吵架或者哭了。\n我已经没有在上学...家里面又很艰难，我也不想再给家人造成困扰...可以让我有家住当家里蹲，其实我已经好感激了，而且缝针要很多钱...我不想要再让我父母花钱 *ᴗ ᴗ)⁾⁾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "name": "一週裡最討厭週二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083236916582109184/N85wlBhm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 130,
+          "like_count": 2022,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 569
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 650,
+          "like_count": 30354,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 935
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": true
+      }
+    ]
+  }
+}
