@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2100920361965723678",
+    "created_at": "2026-09-18T12:10:22.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100920361965723678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1171358492046675968",
+          "start": 3,
+          "username": "XiaoMiDaWang77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100920361965723678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100561832452800931",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoMiDaWang77: 如果你身边有人讨论绩点，奖学金，学生会，班干部，入党，选调生，大创，挑战杯，你必须尝试离开这个圈子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2100920361965723678",
+        "created_at": "2026-09-18T12:10:22.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100920361965723678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1171358492046675968",
+              "start": 3,
+              "username": "XiaoMiDaWang77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100920361965723678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100561832452800931",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaoMiDaWang77: 如果你身边有人讨论绩点，奖学金，学生会，班干部，入党，选调生，大创，挑战杯，你必须尝试离开这个圈子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1171358492046675968",
+        "conversation_id": "2100561832452800931",
+        "created_at": "2026-09-17T12:25:42.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100561832452800931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100561832452800931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 61695,
+          "like_count": 562,
+          "quote_count": 2,
+          "reply_count": 273,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "如果你身边有人讨论绩点，奖学金，学生会，班干部，入党，选调生，大创，挑战杯，你必须尝试离开这个圈子。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100920361965723678",
+        "name": "一週裡最討厭週二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653266334619402245/1782654874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099424592356048897/F8mHp1Nz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 141,
+          "like_count": 2322,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 741
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-10T09:43:38.000Z",
+        "description": "小米大王💫我每天就发一些会挨打的话",
+        "id": "1171358492046675968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100918093279003102",
+        "name": "小米",
+        "pinned_tweet_id": "2100917847358632288",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1171358492046675968/1789647774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100561081370284033/nQHOwUmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 33,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "XiaoMiDaWang77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

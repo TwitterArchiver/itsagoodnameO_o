@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1653266334619402245",
+    "conversation_id": "2107281181108781421",
+    "created_at": "2026-10-06T04:55:58.000Z",
+    "display_text_range": [
+      7,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T05:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107334023886631051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1289715612978044928",
+          "start": 0,
+          "username": "77srl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107334023886631051",
+    "in_reply_to_user_id": "1289715612978044928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107281181108781421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@77srl 降温让我抑郁症犯了好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653266334619402245",
+        "conversation_id": "2107281181108781421",
+        "created_at": "2026-10-06T04:55:58.000Z",
+        "display_text_range": [
+          7,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T05:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107334023886631051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1289715612978044928",
+              "start": 0,
+              "username": "77srl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107334023886631051",
+        "in_reply_to_user_id": "1289715612978044928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107281181108781421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@77srl 降温让我抑郁症犯了好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289715612978044928",
+        "conversation_id": "2107281181108781421",
+        "created_at": "2026-10-06T01:25:59.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T02:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107281181108781421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107281181108781421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "降温把我的抑郁症治好了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-05-02T05:13:29.000Z",
+        "description": "生理心理女｜06大学 软件工程在读｜心境情感障碍｜od戒割戒酒抽烟｜深圳&佛山｜不敢找你讲话但是想你找我讲话｜不接半绿非绿｜无门槛但是打钱给我我会非常开心(^^)",
+        "id": "1653266334619402245",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107334023886631051",
+        "name": "我的路径有中文",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1653266334619402245/1782654874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099424592356048897/F8mHp1Nz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 153,
+          "like_count": 2370,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 776
+        },
+        "url": "",
+        "username": "itsagoodnameO_o",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-02T00:12:26.000Z",
+        "description": "死在回忆里",
+        "id": "1289715612978044928",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2107281181108781421",
+        "name": "堇z",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1289715612978044928/1684701552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793379496177135619/kdn7TJf8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 98,
+          "like_count": 5820,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "77srl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
